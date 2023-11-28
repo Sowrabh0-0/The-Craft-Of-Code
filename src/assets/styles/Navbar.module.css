@@ -1,0 +1,102 @@
+.navBarContainer {
+  width: 100%;
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+  padding-right: 25px;
+  padding-left: 25px;
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+}
+
+.contractionContainer {
+  padding-top: 40px;
+  font-size: 40px;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  margin: 0;
+  background-color: white;
+  color: black;
+}
+
+@media only screen and (max-width: 900px) {
+  .contractionContainer {
+    font-size: 25px;
+  }
+
+  .navBarContainer {
+    padding: 0;
+  }
+}
+
+.hamburgerContainer {
+  display: none;
+  transition: 0.3s ease-in-out;
+}
+
+.hamburgerContainer.open {
+  display: block;
+}
+
+.nameContainer {
+  font-family: Venus, Arial, serif;
+  padding: 0;
+  align-self: flex-end;
+  color: white;
+  margin: 0 0 0 20px;
+  font-size: clamp(15px, 40px, 2vw);
+}
+
+@media only screen and (max-width: 900px) {
+  .nameContainer {
+    font-size: clamp(12px, 40px, 4vw);
+  }
+}
+
+@media only screen and (max-width: 250px) {
+  .nameContainer {
+    display: none;
+  }
+}
+
+.navButtonContainer {
+  display: flex;
+  align-self: flex-end;
+}
+
+@media only screen and (max-width: 900px) {
+  .navButtonContainer {
+    display: none;
+  }
+}
+
+.navContentSpacer {
+  flex: 1;
+}
+
+.navButton {
+  background-color: transparent;
+  border: none;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 12px 25px;
+  color: white;
+  transition: 0.3s ease-in-out;
+
+  &:hover {
+    scale: 1.1;
+    cursor: pointer;
+  }
+}
+
+.navButtonBorder {
+  font-weight: normal;
+  border: 2px white solid;
+  margin-right: 10px;
+
+  &:hover {
+    background-color: white;
+    color: black;
+  }
+}

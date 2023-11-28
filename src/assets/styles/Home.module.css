@@ -14,3 +14,30 @@
     background-position: bottom;
   }
 }
+
+
+.remainingSpace {
+  flex: 1;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.emptySpace {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.singer {
+  font-size: clamp(20px, 100px, 10vw);
+  margin: 2.5vw;
+  color: white;
+  width: min-content;
+  padding-right: 30px;
+  border-right: 10px solid white;
+
+  @media only screen and (max-width: 500px) {
+    padding-right: 4px;
+  }
+}
