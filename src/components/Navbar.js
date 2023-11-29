@@ -9,14 +9,13 @@ export function NavBar() {
   return (
     <div className={styles.navBarContainer}>
       <div className={styles.contractionContainer}>as</div>
-      <div className={styles.navContainerRemaining}>
-        <h1 className={styles.nameContainer}>ADITHYANARAYANAN SHANKAR</h1>
-        <div className={styles.navContentSpacer} />
-        <div className={styles.navButtonContainer}>
-          <button className={styles.navButtonBorder}>Schedule</button>
-          <button className={styles.navButton}>Gallery</button>
-          <button className={styles.navButton}>Socials</button>
-        </div>
+      <div className={styles.nameContainer}>
+        <h1>ADITHYANARAYANAN SHANKAR</h1>
+      </div>
+      <div className={styles.navButtonContainer}>
+        <a href="/schedule" className={styles.navButtonBorder}>Schedule</a>
+        <a href="/gallery" className={styles.navButton}>Gallery</a>
+        <a href="/socials" className={styles.navButton}>Socials</a>
       </div>
       <div className={`${styles.hamburgerContainer} ${openNav ? 'open' : ''}`} onClick={() => setOpenNav(prev => !prev)}>
         <RxHamburgerMenu id='ham-open'/>

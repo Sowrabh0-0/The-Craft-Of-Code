@@ -1,13 +1,15 @@
+/* Navbar.module.css */
+
 .navBarContainer {
   width: 100%;
   max-width: 100%;
   display: flex;
-  flex-direction: row;
-  padding-right: 25px;
-  padding-left: 25px;
+  align-items: center;
+  padding: 0 14px;
   position: fixed;
-  top: 0;
   z-index: 1000;
+  margin-left: auto;
+  justify-content: space-between;
 }
 
 .contractionContainer {
@@ -15,46 +17,39 @@
   font-size: 40px;
   padding-left: 0.75rem;
   padding-right: 0.75rem;
-  margin: 0;
   background-color: white;
   color: black;
+  
 }
 
 @media only screen and (max-width: 900px) {
   .contractionContainer {
+    padding-top: 20px; 
     font-size: 25px;
-  }
-
-  .navBarContainer {
-    padding: 0;
   }
 }
 
 .hamburgerContainer {
   display: none;
-  transition: 0.3s ease-in-out;
 }
 
 .hamburgerContainer.open {
   display: block;
+  position: absolute;
+  right: 25px; 
+  top: 20px; 
 }
 
 .nameContainer {
-  font-family: Venus, Arial, serif;
-  padding: 0;
-  align-self: flex-end;
+  flex-grow: 1;
+  text-align: center;
   color: white;
-  margin: 0 0 0 20px;
-  font-size: clamp(15px, 40px, 2vw);
+  font-family: 'Venus', Arial, serif;
+  margin: 0 35% 10px 0px; 
+  
 }
 
 @media only screen and (max-width: 900px) {
-  .nameContainer {
-    font-size: clamp(12px, 40px, 4vw);
-  }
-}
-
-@media only screen and (max-width: 250px) {
   .nameContainer {
     display: none;
   }
@@ -62,7 +57,9 @@
 
 .navButtonContainer {
   display: flex;
-  align-self: flex-end;
+  align-items: center;
+  padding-right: 30px; 
+  gap: 20px; 
 }
 
 @media only screen and (max-width: 900px) {
@@ -71,32 +68,42 @@
   }
 }
 
-.navContentSpacer {
-  flex: 1;
-}
-
-.navButton {
+.navButton, .navButtonBorder {
   background-color: transparent;
-  border: none;
+  border: 1px solid white; 
   font-size: 15px;
   font-weight: bold;
   padding: 12px 25px;
-  color: white;
   transition: 0.3s ease-in-out;
+  color: white; 
+  text-decoration: none;
+}
 
-  &:hover {
-    scale: 1.1;
-    cursor: pointer;
+.navButton:hover, .navButtonBorder:hover {
+  transform: scale(1.1); 
+  cursor: pointer;
+  background-color: white;
+  color: black;
+}
+
+
+.navButtonBorder {
+  margin-right: 10px;
+}
+
+/* Adjusting for very small screens */
+@media only screen and (max-width: 250px) {
+  .navBarContainer {
+    flex-direction: column;
+  }
+
+  .contractionContainer, .hamburgerContainer {
+    font-size: 20px;
   }
 }
 
-.navButtonBorder {
-  font-weight: normal;
-  border: 2px white solid;
-  margin-right: 10px;
-
-  &:hover {
-    background-color: white;
-    color: black;
+@media (min-width: 1024px) {
+  .navButton, .navButtonBorder {
+    padding: 12px 15px;
   }
 }

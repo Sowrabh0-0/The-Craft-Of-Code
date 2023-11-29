@@ -1,0 +1,88 @@
+.gallery {
+    position: absolute;
+    top: 17.79px;
+    left: 220.86px;
+  }
+  .groupChild {
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    border: 2.2px solid var(--color-white);
+    box-sizing: border-box;
+    height: 59.29px;
+  }
+  .groupChild,
+  .rectangleParent,
+  .schedule {
+    position: absolute;
+    width: 163.79px;
+  }
+  .schedule {
+    top: 17.79px;
+    left: calc(50% - 81.9px);
+    text-decoration: underline;
+    font-weight: 500;
+    display: inline-block;
+    height: 30.39px;
+  }
+  .rectangleParent {
+    top: 0;
+    left: 0;
+    height: 59.29px;
+    text-align: center;
+    color: #474c5c;
+  }
+  .galleryParent,
+  .socials1 {
+    position: absolute;
+    top: 17.79px;
+    left: 343.15px;
+  }
+  .galleryParent {
+    top: 23.72px;
+    left: 969.42px;
+    width: 408.37px;
+    height: 59.29px;
+    font-size: 18.53px;
+  }
+  .socialsChild {
+    position: absolute;
+    top: 0;
+    left: 25.2px;
+    background-color: var(--color-white);
+    width: 59.29px;
+    height: 74.11px;
+  }
+  .adithyanarayanan {
+    position: absolute;
+    top: 35.57px;
+    left: 97.09px;
+    font-family: var(--font-venus);
+  }
+  .as,
+  .shankar {
+    position: absolute;
+  }
+  .shankar {
+    top: 37.06px;
+    left: calc(50% - 282.37px);
+    font-family: var(--font-venus);
+  }
+  .as {
+    top: 18.53px;
+    left: 31.87px;
+    font-size: 44.47px;
+    color: #000;
+  }
+  .socials {
+    position: relative;
+    background: radial-gradient(50% 50%at 50% 50%, #5c6376, #353844);
+    width: 100%;
+    height: 741.15px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 29.65px;
+    color: var(--color-white);
+    font-family: var(--font-wix-madefor-display);
+  }
+  
