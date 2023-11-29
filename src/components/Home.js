@@ -3,6 +3,7 @@
   import NavBar from './Navbar';
 import { MusicController } from './MusicController';
 
+import Gallery from './Gallery';
   const Home = () => {
     return (
       <div className={styles.homeContainer}>
@@ -12,7 +13,9 @@ import { MusicController } from './MusicController';
             <MusicController/>
           </div>
           <div className={styles.singer}>Singer</div>
+      
         </div>
+        <Gallery/>
       </div>
     );
   };
