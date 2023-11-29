@@ -1,0 +1,305 @@
+.musicControllerContainer {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .openCloseContainer {
+    background-color: #353844;
+    width: 30px;
+    height: 30px;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+
+  .rotate225 {
+    transform: rotate(225deg);
+    transition: 0.3s ease-in-out;
+  }
+  
+  .rotate45 {
+    transform: rotate(45deg);
+    transition: 0.3s ease-in-out;
+  }
+  
+  .centerContent {
+    padding: 13px 10px 13px 20px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .listenToSpotifyButton {
+    border-radius: 20px;
+    background-color: #1DB954;
+    height: min-content;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    padding: 5px 10px;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .volumeControlContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    flex-direction: row;
+    font-size: 20px;
+  }
+  
+  .playbackControlContainer {
+    flex: 1;
+    display: flex;
+    gap: 3px;
+  }
+  
+  .primaryRow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    transition: ease-in-out 0.3s;
+  }
+  
+  .primaryRowColumn {
+    flex-direction: column;
+  }
+  
+  .primaryRowHidden {
+    display: none;
+  }
+  
+  .audioSlider {
+    -webkit-appearance: none;
+    width: 100%;
+    padding: 1.5px;
+    border-radius: 20px;
+    background-color: #D9DCE7;
+    outline: none;
+    /* Add additional browser-specific slider styles */
+  }
+  
+  .musicPosition {
+    font-weight: lighter;
+    font-size: 14px;
+  }
+  
+  .musicControlsContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 5px;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .iconButtonContainer {
+    color: #353844;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .iconButtonStepContainer {
+    color: #353844;
+    font-size: 30px;
+  }
+  
+  .textContentColumn {
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+    gap: 2px;
+    overflow: hidden;
+  }
+  
+  .songTitle {
+    color: #353844;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+  .songAuthor {
+    color: #353844;
+    font-family: Ubuntu, sans-serif;
+    font-weight: lighter;
+    font-size: 16px;
+  }
+  
+  .musicControllerContainer {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .openCloseContainer {
+    background-color: #353844;
+    width: 30px;
+    height: 30px;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+
+  .rotate225 {
+    transform: rotate(225deg);
+    transition: 0.3s ease-in-out;
+  }
+  
+  .rotate45 {
+    transform: rotate(45deg);
+    transition: 0.3s ease-in-out;
+  }
+  
+  .centerContent {
+    padding: 13px 10px 13px 20px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .listenToSpotifyButton {
+    border-radius: 20px;
+    background-color: #1DB954;
+    height: min-content;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    padding: 5px 10px;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .volumeControlContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    flex-direction: row;
+    font-size: 20px;
+  }
+  
+  .playbackControlContainer {
+    flex: 1;
+    display: flex;
+    gap: 3px;
+  }
+  
+  .primaryRow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    transition: ease-in-out 0.3s;
+  }
+  
+  .primaryRowColumn {
+    flex-direction: column;
+  }
+  
+  .primaryRowHidden {
+    display: none;
+  }
+  
+  .audioSlider {
+    -webkit-appearance: none;
+    width: 100%;
+    padding: 1.5px;
+    border-radius: 20px;
+    background-color: #D9DCE7;
+    outline: none;
+    /* Add additional browser-specific slider styles */
+  }
+  
+  .musicPosition {
+    font-weight: lighter;
+    font-size: 14px;
+  }
+  
+  .musicControlsContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 5px;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .iconButtonContainer {
+    color: #353844;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .iconButtonStepContainer {
+    color: #353844;
+    font-size: 30px;
+  }
+  
+  .textContentColumn {
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+    gap: 2px;
+    overflow: hidden;
+  }
+  
+  .songTitle {
+    color: #353844;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+  .songAuthor {
+    color: #353844;
+    font-family: Ubuntu, sans-serif;
+    font-weight: lighter;
+    font-size: 16px;
+  }
+  
+  .closed {
+    width: 219px;
+    height: 155px;
+    position: absolute; /* or 'fixed', depending on your layout */
+    top: 345px;
+    left: -1px;
+    transition: 0.3s ease-in-out;
+  }
+  .rotate225 {
+    transform: rotate(225deg);
+    transition: 0.3s ease-in-out;
+  }
+  
+  .rotate45 {
+    transform: rotate(45deg);
+    transition: 0.3s ease-in-out;
+  }
+  
+  
