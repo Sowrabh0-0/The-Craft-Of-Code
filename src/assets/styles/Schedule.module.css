@@ -1,0 +1,345 @@
+
+.scheduleChild {
+    position: absolute;
+    top: 349px;
+    left: 31px;
+    background-color: var(--color-darkslategray-100);
+    width: 409px;
+    height: 96px;
+  }
+  .gallery {
+    position: absolute;
+    top: 24px;
+    left: 298px;
+  }
+  .groupChild {
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    border: 3px solid var(--color-white);
+    box-sizing: border-box;
+    height: 80px;
+  }
+  .groupChild,
+  .rectangleParent,
+  .schedule1 {
+    position: absolute;
+    width: 221px;
+  }
+  .schedule1 {
+    top: 24px;
+    left: calc(50% - 110.5px);
+    text-decoration: underline;
+    font-weight: 500;
+    display: inline-block;
+    height: 41px;
+  }
+  .rectangleParent {
+    top: 0;
+    left: 0;
+    height: 80px;
+    text-align: center;
+    color: #474c5c;
+  }
+  .galleryParent,
+  .socials {
+    position: absolute;
+    top: 24px;
+    left: 463px;
+  }
+  .galleryParent {
+    top: 32px;
+    left: 1308px;
+    width: 551px;
+    height: 80px;
+    font-family: var(--font-wix-madefor-display);
+  }
+  .scheduleItem {
+    position: absolute;
+    top: 0;
+    left: 34px;
+    background-color: var(--color-white);
+    width: 80px;
+    height: 100px;
+  }
+  .adithyanarayanan,
+  .shankar {
+    font-size: var(--font-size-21xl);
+    font-family: var(--font-venus);
+  }
+  .adithyanarayanan {
+    position: absolute;
+    top: 48px;
+    left: 131px;
+  }
+  .shankar {
+    top: 50px;
+    left: calc(50% - 381px);
+  }
+  .as,
+  .div,
+  .shankar {
+    position: absolute;
+    color: white;
+  }
+  .as {
+    top: 25px;
+    left: 43px;
+    font-size: 60px;
+    font-family: var(--font-wix-madefor-display);
+    color: #000;
+  }
+  .div {
+    top: 0;
+    left: 0;
+    font-weight: 500;
+  }
+  .arrowsDownArrow {
+    position: absolute;
+    top: 1px;
+    left: 67px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .parent {
+    position: absolute;
+    top: 243px;
+    left: 349px;
+    width: 91px;
+    height: 27px;
+    text-align: center;
+  }
+  .eventName,
+  .eventsCalendar {
+    position: absolute;
+    top: 242px;
+    left: 34px;
+    font-weight: 500;
+    text-align: center;
+    color: white;
+  }
+  .eventName {
+    top: 200px;
+    left: 1264px;
+    font-size: 50px;
+    text-transform: uppercase;
+  }
+  .thisIsAn {
+    margin-block-start: 0;
+    margin-block-end: 4px;
+    color: white;
+  }
+  .utNisiArcu {
+    margin: 0;
+
+    color: white;
+  }
+  .thisIsAnContainer {
+    position: absolute;
+    top: 273px;
+    left: 1264px;
+    font-size: var(--font-size-7xl);
+    line-height: 126.52%;
+    font-family: var(--font-lato);
+    display: inline-block;
+    width: 583px;
+  }
+  .groupItem {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-darkslategray-100);
+    width: 409px;
+    height: 96px;
+  }
+  .arrowsRightArrow {
+    position: absolute;
+    top: 38px;
+    left: 368px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .eventName1,
+  .venueCityCountry {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+  }
+  .venueCityCountry {
+    top: 30px;
+    font-size: var(--font-size-3xl);
+    color: white
+  }
+  .eventNameParent,
+  .rectangleGroup {
+    position: absolute;
+    top: 18px;
+    left: 17px;
+    width: 198px;
+    height: 58px;
+  }
+  .rectangleGroup {
+    top: 48px;
+    left: 0;
+    width: 409px;
+    height: 96px;
+  }
+  .jun2023 {
+    position: absolute;
+    top: 0;
+    left: 3px;
+    font-size: var(--font-size-3xl);
+    font-weight: 200;
+    font-family: var(--font-quanta-grotesk-pro);
+    text-align: left;
+    color: white;
+  }
+  .groupContainer,
+  .groupDiv {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 409px;
+    height: 144px;
+  }
+  .groupDiv {
+    top: 418px;
+  }
+  .arrowsRightArrow2 {
+    position: absolute;
+    top: 713px;
+    left: 368px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .groupParent1 {
+    position: absolute;
+    top: 627px;
+    left: 0;
+    width: 409px;
+    height: 144px;
+  }
+  .jun20233 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 300;
+    font-family: var(--font-subjectivity);
+  }
+  .groupChild2,
+  .groupParent2 {
+    position: absolute;
+    top: 836px;
+    left: 0;
+    width: 409px;
+    height: 144px;
+  }
+  .groupChild2 {
+    top: 0;
+    background-color: var(--color-white);
+    height: 96px;
+  }
+  .jun20234,
+  .venueCityCountry4 {
+    position: absolute;
+    left: 0;
+    font-size: var(--font-size-3xl);
+  }
+  .venueCityCountry4 {
+    top: 30px;
+    color: #686868;
+  }
+  .jun20234 {
+    top: 0;
+    font-weight: 200;
+    font-family: var(--font-quanta-grotesk-pro);
+    color: var(--color-white);
+    text-align: left;
+  }
+  .groupParent3 {
+    position: absolute;
+    top: 209px;
+    left: 3px;
+    width: 409px;
+    height: 144px;
+    color: var(--color-darkslategray-100);
+  }
+  .groupParent {
+    position: absolute;
+    top: 301px;
+    left: 31px;
+    width: 412px;
+    height: 699px;
+    overflow-y: auto;
+    text-align: center;
+    font-family: var(--font-wix-madefor-display);
+    overflow-x: hidden;
+  }
+  .scheduleInner {
+    position: absolute;
+    top: 200px;
+    left: calc(50% - 350px);
+    background-color: white;
+    width: 575px;
+    height: 703px;
+  }
+  .date,
+  .follow,
+  .venue {
+    position: absolute;
+    top: 747px;
+    left: 1264px;
+    font-size: var(--font-size-7xl);
+    line-height: 126.52%;
+    color: white;
+  }
+  .follow,
+  .venue {
+    top: 805px;
+  }
+  .follow {
+    top: 863px;
+  }
+  .scheduleChild1,
+  .scheduleChild2 {
+    position: absolute;
+    border-radius: var(--br-31xl);
+  }
+  .scheduleChild1 {
+    top: 211px;
+    left: 455px;
+    background-color: #6c7283;
+    width: 12px;
+    height: 831px;
+  }
+  .scheduleChild2 {
+    top: 213px;
+    left: 456px;
+    background-color: var(--color-whitesmoke-200);
+    width: 10px;
+    height: 162px;
+  }
+  .june2023 {
+    position: absolute;
+    top: 747px;
+    left: 1348px;
+    font-size: var(--font-size-3xl);
+    font-family: var(--font-lato);
+    color:white
+  }
+  .schedule {
+    position: relative;
+    background: radial-gradient(50% 50%at 50% 50%, #5c6376, #353844);
+    width: 100%;
+    height: 1000px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-6xl);
+    color: var(--color-white);
+    font-family: var(--font-quanta-grotesk-pro);
+  }
+  

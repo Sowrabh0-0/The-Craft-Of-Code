@@ -1,0 +1,245 @@
+.experience {
+    position: absolute;
+    top: 915px;
+    left: 136px;
+    font-size: 50px;
+    letter-spacing: 0.06em;
+    line-height: 116.5%;
+  }
+  .loremIpsumDolor,
+  .thing1 {
+    position: absolute;
+    left: 0;
+    line-height: 116.5%;
+  }
+  .thing1 {
+    top: 0;
+    letter-spacing: 0.06em;
+  }
+  .loremIpsumDolor {
+    top: 55px;
+    font-family: var(--font-lato);
+    display: inline-block;
+    width: 861px;
+  }
+  .thing1Parent {
+    position: absolute;
+    top: 209px;
+    left: 169px;
+    width: 861px;
+    height: 139px;
+  }
+  .loremIpsumDolor1 {
+    position: absolute;
+    top: 55px;
+    left: 0;
+    line-height: 116.5%;
+    font-family: var(--font-lato);
+    display: inline-block;
+    width: 308px;
+    color: white;
+  }
+  .loremIpsumDolor2,
+  .thing3Parent {
+    position: absolute;
+    top: 463px;
+    left: 164px;
+    width: 308px;
+    height: 279px;
+    color: white;
+
+  }
+  .loremIpsumDolor2 {
+    top: 55px;
+    left: 0;
+    line-height: 116.5%;
+    font-family: var(--font-lato);
+    display: inline-block;
+    height: 358px;
+    color: white;
+
+  }
+  .thing8Parent {
+    position: absolute;
+    top: 547px;
+    left: 1112px;
+    width: 308px;
+    height: 413px;
+    color: white;
+
+  }
+  .loremIpsumDolor3 {
+    position: absolute;
+    top: 52px;
+    left: 0;
+    line-height: 116.5%;
+    font-family: var(--font-lato);
+    display: inline-block;
+    width: 518px;
+    color: white;
+
+  }
+  .thing4Parent {
+    position: absolute;
+    top: 444px;
+    left: 536px;
+    width: 518px;
+    height: 136px;
+    color: white;
+
+  }
+  .loremIpsumDolor4 {
+    position: absolute;
+    top: 52px;
+    left: 0;
+    line-height: 116.5%;
+    font-family: var(--font-lato);
+    display: inline-block;
+    width: 443px;
+    color: white;
+
+  }
+  .thing5Parent,
+  .thing6Parent,
+  .thing7Parent {
+    position: absolute;
+    top: 534px;
+    left: 1450px;
+    width: 443px;
+    height: 164px;
+    color: white;
+
+  }
+  .thing5Parent,
+  .thing7Parent {
+    top: 783px;
+    left: 1456px;
+    color: white;
+
+  }
+  .thing5Parent {
+    top: 661px;
+    left: 536px;
+    width: 518px;
+    height: 192px;
+    color: white;
+
+  }
+  .loremIpsumDolor7,
+  .thing2 {
+    position: absolute;
+    left: 0;
+    line-height: 116.5%;
+    display: inline-block;
+    color: white;
+
+  }
+  .thing2 {
+    top: 0;
+    letter-spacing: 0.06em;
+    width: 122px;
+    color: white;
+
+  }
+  .loremIpsumDolor7 {
+    top: 55px;
+    font-family: var(--font-lato);
+    width: 762px;
+    color: white;
+
+  }
+  .site6Child,
+  .thing2Parent {
+    position: absolute;
+    top: 224px;
+    left: 1131px;
+    width: 762px;
+    height: 195px;
+    color: white;
+
+  }
+  .site6Child {
+    top: 399.5px;
+    left: 163.5px;
+    border-top: 1px solid var(--color-white);
+    box-sizing: border-box;
+    width: 891.01px;
+    height: 1px;
+    color: white;
+
+  }
+  .site6Inner,
+  .site6Item {
+    position: absolute;
+    top: 495px;
+    left: 1092px;
+    width: 815px;
+    height: 5.1px;
+    color: white;
+
+  }
+  .site6Inner {
+    top: 755px;
+    left: 1456px;
+    width: 451px;
+    height: 3.1px;
+  }
+  .lineDiv,
+  .site6Child1 {
+    border-right: 1px solid var(--color-white);
+    width: 1px;
+  }
+  .lineDiv {
+    position: absolute;
+    top: 155.47px;
+    left: 1079.5px;
+    box-sizing: border-box;
+    height: 818.06px;
+    color: white;
+
+  }
+  .site6Child1 {
+    top: 436.5px;
+    left: 516.5px;
+    height: 418px;
+    color: white;
+
+  }
+  .site6Child1,
+  .site6Child2,
+  .site6Child3 {
+    position: absolute;
+    box-sizing: border-box;
+  }
+  .site6Child2 {
+    top: 629.5px;
+    left: 535.49px;
+    border-top: 1px solid var(--color-white);
+    width: 519.02px;
+    height: 1px;
+    color: white;
+
+  }
+  .site6Child3 {
+    top: 515.41px;
+    left: 1431px;
+    border-right: 1px solid var(--color-white);
+    width: 1px;
+    height: 454.19px;
+    color: white;
+
+  }
+  .site6 {
+    position: relative;
+    background: radial-gradient(50% 50%at 50% 50%, #5c6376, #353844);
+    width: 100%;
+    height: 1000px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-venus);
+    color: white;
+
+  }
+  

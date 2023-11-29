@@ -2,8 +2,9 @@
   import styles from '../assets/styles/Home.module.css';
   import NavBar from './Navbar';
 import { MusicController } from './MusicController';
-
 import Gallery from './Gallery';
+import Schedule from './Schedule';
+import Experience from './Experience';
   const Home = () => {
     return (
       <div className={styles.homeContainer}>
@@ -13,9 +14,9 @@ import Gallery from './Gallery';
             <MusicController/>
           </div>
           <div className={styles.singer}>Singer</div>
-      
         </div>
-        <Gallery/>
+        <Schedule/>
+      <Experience/>
       </div>
     );
   };
