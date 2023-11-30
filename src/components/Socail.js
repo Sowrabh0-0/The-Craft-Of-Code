@@ -1,5 +1,5 @@
 import styles from "../assets/styles/Social.module.css";
-
+import NavBar from "./Navbar";
 const Socials = () => {
   return (
     <div className={styles.socials}>

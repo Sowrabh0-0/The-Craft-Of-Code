@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import styles from '../assets/styles/Navbar.module.css'; 
 import { RxHamburgerMenu } from 'react-icons/rx';
 import { TfiClose } from 'react-icons/tfi';
-
+import { Link } from 'react-router-dom';
 export function NavBar() {
   const [openNav, setOpenNav] = useState(false);
 
@@ -13,9 +13,9 @@ export function NavBar() {
         <h1>ADITHYANARAYANAN SHANKAR</h1>
       </div>
       <div className={styles.navButtonContainer}>
-        <a href="/schedule" className={styles.navButtonBorder}>Schedule</a>
-        <a href="/gallery" className={styles.navButton}>Gallery</a>
-        <a href="/socials" className={styles.navButton}>Socials</a>
+        <Link to='/schedule'><button className={styles.navButtonBorder}>Schedule</button></Link>
+        <Link to='/gallery'><button className={styles.navButton}>Gallery</button></Link>
+        <Link to='/socials'><button className={styles.navButton}>Socials</button></Link>
       </div>
       <div className={`${styles.hamburgerContainer} ${openNav ? 'open' : ''}`} onClick={() => setOpenNav(prev => !prev)}>
         <RxHamburgerMenu id='ham-open'/>

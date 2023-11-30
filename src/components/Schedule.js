@@ -2,8 +2,11 @@ import styles from "../assets/styles/Schedule.module.css";
 import React, { useState } from 'react';
 import { FaArrowRight } from 'react-icons/fa';
 import { FaArrowDown } from 'react-icons/fa';
+import NavBar from "./Navbar";
+
 const Schedule = () => {
   return (
+    <div>
     <div className={styles.schedule}>
       <div className={styles.scheduleChild} />
    
@@ -101,6 +104,7 @@ const Schedule = () => {
      
       <div className={styles.scheduleChild2} />
       <div className={styles.june2023}>09 June 2023</div>
+    </div>
     </div>
   );
 };

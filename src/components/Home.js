@@ -4,20 +4,20 @@
 import { MusicController } from './MusicController';
 import Schedule from './Schedule';
 import Experience from './Experience';
-
+import Socials from './Socail';
 
   const Home = () => {
     return (
       <div className={styles.homeContainer}>
         <NavBar />
+
         <div className={styles.remainingSpace}>
           <div className={styles.emptySpace}>
             <MusicController/>
           </div>
           <div className={styles.singer}>Singer</div>
         </div>
-        <Schedule/>
-      <Experience/>
+
       </div>
     );
   };
