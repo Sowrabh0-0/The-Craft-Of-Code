@@ -1,0 +1,60 @@
+.adithyanarayananshankar4RemoIcon {
+    position: absolute;
+    top: 0;
+    left: 888px;
+    width: 528.75px;
+    height: 842.25px;
+    object-fit: cover;
+  }
+  .iAmAdithyanarayanan {
+    margin: 0;
+  }
+  .blankLine {
+    margin: 0;
+    font-size: 30.43px;
+    font-family: var(--font-inter);
+    color: #003a22;
+  }
+  .aSingerVoice {
+    font-weight: 500;
+  }
+  .aSingerVoiceArtistAndMus,
+  .span {
+    font-family: var(--font-subjectivity);
+  }
+  .aSingerVoiceArtistAndMus {
+    margin: 0;
+    font-size: 29.51px;
+  }
+  .span {
+    font-size: 30.75px;
+  }
+  .iAmAdithyanarayananContainer,
+  .iWorkAs {
+    position: absolute;
+    top: 79px;
+    left: 188px;
+    display: inline-block;
+    width: 700px;
+    height: 307.11px;
+  }
+  .iWorkAs {
+    top: 515px;
+    font-size: 24.35px;
+    line-height: 133%;
+    font-family: var(--font-lato);
+    width: 600px;
+    height: 266.96px;
+  }
+  .site10 {
+    position: relative;
+    background: radial-gradient(50% 50%at 50% 50%, #5c6376, #353844);
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    text-align: left;
+    font-size: 73.78px;
+    color: var(--color-white);
+    font-family: var(--font-brant);
+  }
+  

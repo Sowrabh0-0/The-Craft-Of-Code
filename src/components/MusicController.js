@@ -54,7 +54,7 @@
           </div>
         </div>
         <div className={`${styles.openCloseContainer} ${openMusicContainer ? styles.rotate225 : styles.rotate45}`}
-             onClick={toggleMusicContainer}>
+            onClick={toggleMusicContainer}>
           <IoMdArrowUp />
         </div>
       </div>

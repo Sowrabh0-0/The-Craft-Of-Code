@@ -89,7 +89,6 @@
     border-radius: 20px;
     background-color: #D9DCE7;
     outline: none;
-    /* Add additional browser-specific slider styles */
   }
   
   .musicPosition {
@@ -97,14 +96,7 @@
     font-size: 14px;
   }
   
-  .musicControlsContainer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: row;
-    gap: 5px;
-    transition: 0.3s ease-in-out;
-  }
+
   
   .iconButtonContainer {
     color: #353844;
@@ -287,10 +279,10 @@
   .closed {
     width: 219px;
     height: 155px;
-    position: absolute; /* or 'fixed', depending on your layout */
     top: 345px;
     left: -1px;
     transition: 0.3s ease-in-out;
+  
   }
   .rotate225 {
     transform: rotate(225deg);

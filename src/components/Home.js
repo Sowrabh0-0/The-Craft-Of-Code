@@ -1,21 +1,19 @@
+// Home.js
 import React from 'react';
-import styles from '../assets/styles/Home.module.css';
 import { MusicController } from './MusicController';
-import Site3 from './Site3';
+import styles from '../assets/styles/Home.module.css';
 
-
-  const Home = () => {
-    return (
-      <div className={styles.homeContainer}>
-        <div className={styles.remainingSpace}>
-          <div className={styles.emptySpace}>
-            <MusicController/>
-          </div>
-          <div className={styles.singer}>Singer</div>
+const Home = ({ showMusicController }) => {
+  return (
+    <div className={styles.homeContainer}>
+      <div className={styles.remainingSpace}>
+        <div className={styles.emptySpace}>
+          {showMusicController && <MusicController />}
         </div>
-        <Site3/>
+        <div className={styles.singer}>Singer</div>
       </div>
-    );
-  };
+    </div>
+  );
+};
 
-  export default Home;
+export default Home;

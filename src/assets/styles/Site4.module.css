@@ -1,0 +1,218 @@
+.awards {
+    position: absolute;
+    top: 689.57px;
+    left: 115.5px;
+    letter-spacing: 0.06em;
+    line-height: 116.5%;
+    font-family: var(--font-venus);
+  }
+  .groupChild {
+    position: absolute;
+    top: 37.61px;
+    left: 53.79px;
+    width: 947.46px;
+    height: 2.79px;
+  }
+  .groupItem {
+    position: absolute;
+    top: 21.71px;
+    left: calc(50% - 8.06px);
+    border-radius: 50%;
+    background-color: var(--color-gray);
+    width: 15.51px;
+    height: 15.51px;
+  }
+  .groupInner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 31.02px;
+    background-color: var(--color-white);
+    width: 101.74px;
+    height: 18.74px;
+  }
+  .may2023 {
+    position: absolute;
+    top: 3.1px;
+    left: 8.06px;
+    letter-spacing: 0.06em;
+    line-height: 116.5%;
+  }
+  .rectangleParent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 101.74px;
+    height: 18.74px;
+  }
+  .ellipseParent,
+  .groupWrapper {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 50.87px);
+    width: 101.74px;
+    height: 37.22px;
+  }
+  .groupWrapper {
+    top: 9.39px;
+    left: calc(50% - 370.97px);
+    cursor: pointer;
+    color: var(--color-gray);
+  }
+  .ellipseDiv {
+    position: absolute;
+    top: 15.51px;
+    left: 26.05px;
+    border-radius: 50%;
+    background-color: var(--color-white);
+    width: 15.51px;
+    height: 15.51px;
+  }
+  .groupChild1,
+  .jun2023Parent {
+    position: absolute;
+    top: 15.59px;
+    left: 241.21px;
+    width: 68.86px;
+    height: 31.02px;
+  }
+  .groupChild1 {
+    top: 15.51px;
+    left: 22.33px;
+    border-radius: 50%;
+    background-color: var(--color-white);
+    width: 15.51px;
+    height: 15.51px;
+  }
+  .feb2024Parent,
+  .oct2023Parent {
+    position: absolute;
+    top: 15.59px;
+    left: 332.4px;
+    width: 60.79px;
+    height: 31.02px;
+    text-align: left;
+  }
+  .feb2024Parent {
+    left: 447.17px;
+  }
+  .nearFuture {
+    position: absolute;
+    top: 0;
+    left: 0;
+    letter-spacing: 0.06em;
+    line-height: 116.5%;
+  }
+  .groupChild3 {
+    position: absolute;
+    top: 15.51px;
+    left: 27.3px;
+    border-radius: 50%;
+    background-color: var(--color-white);
+    width: 15.51px;
+    height: 15.51px;
+  }
+  .farFutureParent,
+  .nearFutureParent {
+    position: absolute;
+    top: 15.59px;
+    left: 574.96px;
+    width: 70.1px;
+    height: 31.02px;
+  }
+  .farFutureParent {
+    left: 700.27px;
+    width: 67px;
+  }
+  .inception,
+  .rectangleDiv,
+  .xy092022 {
+    position: absolute;
+    transform: rotate(-12deg);
+    transform-origin: 0 0;
+  }
+  .rectangleDiv {
+    top: 23.32px;
+    left: 0;
+    background-color: var(--color-gray);
+    width: 112.15px;
+    height: 41.2px;
+  }
+  .inception,
+  .xy092022 {
+    letter-spacing: 0.06em;
+    line-height: 116.5%;
+  }
+  .inception {
+    top: 38.59px;
+    left: 28.43px;
+    font-weight: 600;
+  }
+  .xy092022 {
+    top: 21.04px;
+    left: 32.16px;
+    font-size: 12.41px;
+  }
+  .rectangleGroup,
+  .vectorParent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 118.27px;
+    height: 63.61px;
+    text-align: left;
+    font-size: 14.89px;
+  }
+  .vectorParent {
+    top: 676px;
+    left: 304px;
+    width: 1000px;
+    text-align: center;
+    font-size: 12.41px;
+  }
+  .groupChild5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 1.4px solid var(--color-white);
+    box-sizing: border-box;
+    width: 1100px;
+    height: 348.78px;
+  }
+  .hoverOver {
+    position: absolute;
+    top: calc(50% - 29.65px);
+    left: calc(50% - 67.07px);
+    letter-spacing: 0.06em;
+    line-height: 116.5%;
+    display: inline-block;
+    width: 569.06px;
+  }
+  .rectangleContainer {
+    position: absolute;
+    top: 201.36px;
+    left: 170px;
+    width: 1100px;
+    height: 348.78px;
+    font-size: 25.42px;
+  }
+  .adithyanarayananshankarForHoIcon {
+    position: absolute;
+    top: 223.96px;
+    left: 138.88px;
+    width: 500px;
+    height: 310.32px;
+    object-fit: cover;
+  }
+  .site11 {
+    position: relative;
+    background: radial-gradient(50% 50%at 50% 50%, #5c6376, #353844);
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    text-align: left;
+    font-size: 31.78px;
+    color: var(--color-white);
+    font-family: var(--font-quanta-grotesk-pro);
+  }
+  

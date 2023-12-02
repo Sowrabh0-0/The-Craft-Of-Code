@@ -1,0 +1,211 @@
+.experience {
+    position: absolute;
+    top: 691.62px;
+    left: 134.75px;
+    font-size: 28.25px;
+    letter-spacing: 0.06em;
+    line-height: 116.5%;
+  }
+  .loremIpsumDolor,
+  .thing1 {
+    position: absolute;
+    left: 0;
+    line-height: 116.5%;
+  }
+  .thing1 {
+    top: 0;
+    letter-spacing: 0.06em;
+  }
+  .loremIpsumDolor {
+    top: 38.33px;
+    font-family: var(--font-lato);
+    display: inline-block;
+    width: 600px;
+  }
+  .thing1Parent {
+    position: absolute;
+    top: 161.21px;
+    left: 149.63px;
+    width: 600px;
+    height: 95.33px;
+    font-size: 16.72px;
+  }
+  .loremIpsumDolor1 {
+    position: absolute;
+    top: 35.71px;
+    left: 0;
+    line-height: 116.5%;
+    font-family: var(--font-lato);
+    display: inline-block;
+    width: 200px;
+  }
+  .loremIpsumDolor2,
+  .thing3Parent {
+    position: absolute;
+    top: 362.02px;
+    left: 138.5px;
+    width: 200px;
+    height: 179.71px;
+  }
+  .loremIpsumDolor2 {
+    top: 35.71px;
+    left: 0;
+    line-height: 116.5%;
+    font-family: var(--font-lato);
+    display: inline-block;
+    height: 232.47px;
+  }
+  .thing8Parent {
+    position: absolute;
+    top: 431.03px;
+    left: 849.5px;
+    width: 200px;
+    height: 268.18px;
+  }
+  .loremIpsumDolor3 {
+    position: absolute;
+    top: 30.12px;
+    left: 0;
+    line-height: 116.5%;
+    font-family: var(--font-lato);
+    display: inline-block;
+    width: 300px;
+  }
+  .thing4Parent {
+    position: absolute;
+    top: 344.94px;
+    left: 446.25px;
+    width: 300px;
+    height: 78.12px;
+    font-size: var(--font-size-sm-9);
+  }
+  .loremIpsumDolor4 {
+    position: absolute;
+    top: 35.21px;
+    left: 0;
+    line-height: 116.5%;
+    font-family: var(--font-lato);
+    display: inline-block;
+    width: 300px;
+  }
+  .thing6Parent {
+    top: 406.39px;
+    left: 1103.63px;
+    height: 111.21px;
+    font-size: 16.25px;
+  }
+  .thing5Parent,
+  .thing6Parent,
+  .thing7Parent {
+    position: absolute;
+    width: 300px;
+  }
+  .thing7Parent {
+    top: 593.14px;
+    left: 1108.13px;
+    height: 111.21px;
+    font-size: 16.25px;
+  }
+  .thing5Parent {
+    top: 512.69px;
+    left: 446.25px;
+    height: 110.12px;
+    font-size: var(--font-size-sm-9);
+  }
+  .loremIpsumDolor7,
+  .thing2 {
+    position: absolute;
+    left: 0;
+    line-height: 116.5%;
+    display: inline-block;
+  }
+  .thing2 {
+    top: 0;
+    letter-spacing: 0.06em;
+    width: 80.05px;
+  }
+  .loremIpsumDolor7 {
+    top: 36.09px;
+    font-family: var(--font-lato);
+    width: 500px;
+  }
+  .thing2Parent {
+    position: absolute;
+    top: 178.08px;
+    left: 884px;
+    width: 500px;
+    height: 126.09px;
+    font-size: 15.75px;
+  }
+  .site12Child {
+    position: absolute;
+    top: 299.63px;
+    left: 122.62px;
+    border-top: 0.8px solid var(--color-white);
+    box-sizing: border-box;
+    width: 668.26px;
+    height: 0.75px;
+  }
+  .site12Inner,
+  .site12Item {
+    position: absolute;
+    top: 371.25px;
+    left: 819px;
+    width: 611.25px;
+    height: 3.82px;
+  }
+  .site12Inner {
+    top: 566.25px;
+    left: 1092px;
+    width: 338.25px;
+    height: 2.32px;
+  }
+  .lineDiv,
+  .site12Child1 {
+    border-right: 0.8px solid var(--color-white);
+    width: 0.75px;
+  }
+  .lineDiv {
+    position: absolute;
+    top: 116.6px;
+    left: 809.63px;
+    box-sizing: border-box;
+    height: 613.55px;
+  }
+  .site12Child1 {
+    top: 327.38px;
+    left: 387.38px;
+    height: 313.5px;
+  }
+  .site12Child1,
+  .site12Child2,
+  .site12Child3 {
+    position: absolute;
+    box-sizing: border-box;
+  }
+  .site12Child2 {
+    top: 472.13px;
+    left: 401.62px;
+    border-top: 0.8px solid var(--color-white);
+    width: 389.26px;
+    height: 0.75px;
+  }
+  .site12Child3 {
+    top: 386.56px;
+    left: 1073.25px;
+    border-right: 0.8px solid var(--color-white);
+    width: 0.75px;
+    height: 340.64px;
+  }
+  .site12 {
+    position: relative;
+    background: radial-gradient(50% 50%at 50% 50%, #5c6376, #353844);
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    text-align: left;
+    font-size: 15.58px;
+    color: var(--color-white);
+    font-family: var(--font-venus);
+  }
+  

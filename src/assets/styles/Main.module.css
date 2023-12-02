@@ -1,0 +1,9 @@
+/* Main.module.css or a new CSS file */
+.mainContainer {
+    overflow-y: auto; /* Enable vertical scrolling */
+    height: 100vh; /* Set a maximum height if needed */
+
+  }
+  
+  /* Add more styles as needed */
+  
