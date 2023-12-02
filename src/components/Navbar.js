@@ -8,7 +8,7 @@ export function NavBar() {
 
   return (
     <div className={styles.navBarContainer}>
-      <div className={styles.contractionContainer}>as</div>
+      <Link to='/' className={styles.contractionContainer}>as</Link>
       <div className={styles.nameContainer}>
         <h1>ADITHYANARAYANAN SHANKAR</h1>
       </div>

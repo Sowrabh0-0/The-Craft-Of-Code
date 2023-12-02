@@ -343,3 +343,342 @@
     font-family: var(--font-quanta-grotesk-pro);
   }
   
+@media (max-width: 1440px) {
+  
+  .scheduleChild {
+    position: absolute;
+    top: 258.66px;
+    left: 22.98px;
+    background-color: var(--color-darkslategray-100);
+    width: 303.13px;
+    height: 71.15px;
+  }
+  .gallery {
+    position: absolute;
+    top: 17.79px;
+    left: 220.86px;
+  }
+  .groupChild {
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    border: 2.2px solid var(--color-white);
+    box-sizing: border-box;
+    height: 59.29px;
+  }
+  .groupChild,
+  .rectangleParent,
+  .schedule1 {
+    position: absolute;
+    width: 163.79px;
+  }
+  .schedule1 {
+    top: 17.79px;
+    left: calc(50% - 81.9px);
+    text-decoration: underline;
+    font-weight: 500;
+    display: inline-block;
+    height: 30.39px;
+  }
+  .rectangleParent {
+    top: 0;
+    left: 0;
+    height: 59.29px;
+    text-align: center;
+    color: #474c5c;
+  }
+  .galleryParent,
+  .socials {
+    position: absolute;
+    top: 17.79px;
+    left: 343.15px;
+  }
+  .galleryParent {
+    top: 23.72px;
+    left: 969.42px;
+    width: 408.37px;
+    height: 59.29px;
+    font-family: var(--font-wix-madefor-display);
+  }
+  .scheduleItem {
+    position: absolute;
+    top: 0;
+    left: 25.2px;
+    background-color: var(--color-white);
+    width: 59.29px;
+    height: 74.11px;
+  }
+  .adithyanarayanan,
+  .shankar {
+    font-size: 29.65px;
+    font-family: var(--font-venus);
+  }
+  .adithyanarayanan {
+    position: absolute;
+    top: 35.58px;
+    left: 97.09px;
+  }
+  .shankar {
+    top: 37.06px;
+    left: calc(50% - 282.38px);
+  }
+  .as,
+  .div,
+  .shankar {
+    position: absolute;
+  }
+  .as {
+    top: 18.53px;
+    left: 31.87px;
+    font-size: 44.47px;
+    font-family: var(--font-wix-madefor-display);
+    color: #000;
+  }
+  .div {
+    top: 0;
+    left: 0;
+    font-weight: 500;
+  }
+  .arrowsDownArrow {
+    position: absolute;
+    top: 0.74px;
+    left: 49.66px;
+    width: 17.79px;
+    height: 17.79px;
+    overflow: hidden;
+  }
+  .parent {
+    position: absolute;
+    top: 180.1px;
+    left: 258.66px;
+    width: 67.44px;
+    height: 20.01px;
+    text-align: center;
+  }
+  .eventName,
+  .eventsCalendar {
+    position: absolute;
+    top: 179.36px;
+    left: 25.2px;
+    font-weight: 500;
+    text-align: center;
+  }
+  .eventName {
+    top: 148.23px;
+    left: 936.81px;
+    font-size: 37.06px;
+    text-transform: uppercase;
+  }
+  .thisIsAn {
+    margin-block-start: 0;
+    margin-block-end: 2.96px;
+  }
+  .utNisiArcu {
+    margin: 0;
+  }
+  .thisIsAnContainer {
+    position: absolute;
+    top: 202.33px;
+    left: 936.81px;
+    font-size: 19.27px;
+    line-height: 126.52%;
+    font-family: var(--font-lato);
+    display: inline-block;
+    width: 432.09px;
+  }
+  .groupItem {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-darkslategray-100);
+    width: 303.13px;
+    height: 71.15px;
+  }
+  .arrowsRightArrow {
+    position: absolute;
+    top: 28.16px;
+    left: 272.74px;
+    width: 17.79px;
+    height: 17.79px;
+    overflow: hidden;
+  }
+  .eventName1,
+  .venueCityCountry {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .venueCityCountry {
+    top: 22.23px;
+    font-size: 16.31px;
+    color: var(--color-whitesmoke-100);
+  }
+  .eventNameParent,
+  .rectangleGroup {
+    position: absolute;
+    top: 13.34px;
+    left: 12.6px;
+    width: 146.75px;
+    height: 42.99px;
+  }
+  .rectangleGroup {
+    top: 35.58px;
+    left: 0;
+    width: 303.13px;
+    height: 71.15px;
+  }
+  .jun2023 {
+    position: absolute;
+    top: 0;
+    left: 2.22px;
+    font-size: 16.31px;
+    font-weight: 200;
+    font-family: var(--font-quanta-grotesk-pro);
+    text-align: left;
+  }
+  .groupContainer,
+  .groupDiv {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 303.13px;
+    height: 106.72px;
+  }
+  .groupDiv {
+    top: 309.8px;
+  }
+  .arrowsRightArrow2 {
+    position: absolute;
+    top: 528.44px;
+    left: 272.74px;
+    width: 17.79px;
+    height: 17.79px;
+    overflow: hidden;
+  }
+  .groupParent1 {
+    position: absolute;
+    top: 464.7px;
+    left: 0;
+    width: 303.13px;
+    height: 106.72px;
+  }
+  .jun20233 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 300;
+    font-family: var(--font-subjectivity);
+  }
+  .groupChild2,
+  .groupParent2 {
+    position: absolute;
+    top: 619.6px;
+    left: 0;
+    width: 303.13px;
+    height: 106.73px;
+  }
+  .groupChild2 {
+    top: 0;
+    background-color: var(--color-white);
+    height: 71.15px;
+  }
+  .jun20234,
+  .venueCityCountry4 {
+    position: absolute;
+    left: 0;
+    font-size: 16.31px;
+  }
+  .venueCityCountry4 {
+    top: 22.23px;
+    color: #686868;
+  }
+  .jun20234 {
+    top: 0;
+    font-weight: 200;
+    font-family: var(--font-quanta-grotesk-pro);
+    color: var(--color-white);
+    text-align: left;
+  }
+  .groupParent3 {
+    position: absolute;
+    top: 154.9px;
+    left: 2.22px;
+    width: 303.13px;
+    height: 106.72px;
+    color: var(--color-darkslategray-100);
+  }
+  .groupParent {
+    position: absolute;
+    top: 223.09px;
+    left: 22.98px;
+    width: 305.35px;
+    height: 518.06px;
+    overflow-y: auto;
+    text-align: center;
+    font-family: var(--font-wix-madefor-display);
+  }
+  .scheduleInner {
+    position: absolute;
+    top: 148.23px;
+    left: calc(50% - 238.65px);
+    background-color: var(--color-whitesmoke-200);
+    width: 426.16px;
+    height: 521.03px;
+  }
+  .date,
+  .follow,
+  .venue {
+    position: absolute;
+    top: 553.64px;
+    left: 936.81px;
+    font-size: 19.27px;
+    line-height: 126.52%;
+  }
+  .follow,
+  .venue {
+    top: 596.62px;
+  }
+  .follow {
+    top: 639.61px;
+  }
+  .scheduleChild1,
+  .scheduleChild2 {
+    position: absolute;
+    border-radius: 37.06px;
+  }
+  .scheduleChild1 {
+    top: 156.38px;
+    left: 337.22px;
+    background-color: #6c7283;
+    width: 8.89px;
+    height: 615.89px;
+  }
+  .scheduleChild2 {
+    top: 157.86px;
+    left: 337.96px;
+    background-color: var(--color-whitesmoke-200);
+    width: 7.41px;
+    height: 120.07px;
+  }
+  .june2023 {
+    position: absolute;
+    top: 553.64px;
+    left: 999.06px;
+    font-size: 16.31px;
+    font-family: var(--font-lato);
+  }
+  .schedule {
+    position: relative;
+    background: radial-gradient(50% 50%at 50% 50%, #5c6376, #353844);
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    text-align: left;
+    font-size: 18.53px;
+    color: var(--color-white);
+    font-family: var(--font-quanta-grotesk-pro);
+  }
+  
+
+
+}

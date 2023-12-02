@@ -1,8 +1,7 @@
 import styles from "../assets/styles/Schedule.module.css";
-import React, { useState } from 'react';
+import React from 'react';
 import { FaArrowRight } from 'react-icons/fa';
 import { FaArrowDown } from 'react-icons/fa';
-import NavBar from "./Navbar";
 
 const Schedule = () => {
   return (
