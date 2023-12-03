@@ -1,3 +1,6 @@
+body{
+  color: white;
+}
 .experience {
     position: absolute;
     top: 691.62px;
@@ -11,6 +14,7 @@
     position: absolute;
     left: 0;
     line-height: 116.5%;
+   
   }
   .thing1 {
     top: 0;
@@ -145,6 +149,8 @@
     box-sizing: border-box;
     width: 668.26px;
     height: 0.75px;
+    background-color: white;
+
   }
   .site12Inner,
   .site12Item {
@@ -153,6 +159,8 @@
     left: 819px;
     width: 611.25px;
     height: 3.82px;
+    background-color: white;
+
   }
   .site12Inner {
     top: 566.25px;
@@ -164,6 +172,8 @@
   .site12Child1 {
     border-right: 0.8px solid var(--color-white);
     width: 0.75px;
+    background-color: white;
+
   }
   .lineDiv {
     position: absolute;
@@ -171,6 +181,8 @@
     left: 809.63px;
     box-sizing: border-box;
     height: 613.55px;
+    background-color: white;
+
   }
   .site12Child1 {
     top: 327.38px;
@@ -182,6 +194,8 @@
   .site12Child3 {
     position: absolute;
     box-sizing: border-box;
+    background-color: white;
+
   }
   .site12Child2 {
     top: 472.13px;
@@ -189,6 +203,7 @@
     border-top: 0.8px solid var(--color-white);
     width: 389.26px;
     height: 0.75px;
+
   }
   .site12Child3 {
     top: 386.56px;

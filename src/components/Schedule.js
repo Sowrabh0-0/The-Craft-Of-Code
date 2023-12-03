@@ -1,112 +1,62 @@
-import styles from "../assets/styles/Schedule.module.css";
-import React from 'react';
-import { FaArrowRight } from 'react-icons/fa';
-import { FaArrowDown } from 'react-icons/fa';
+import React, { useState } from 'react';
+import styles from'../assets/styles/Schedule.module.css'; // Assume you have a CSS file with all the styles
 
 const Schedule = () => {
+    const [selectedEvent, setSelectedEvent] = useState(    { id: 1, date: '11 Jun 2023', name: 'Event 1', venue: 'Venue 1, city, country', details: 'Details for Event 1...' },
+    );
+  // This array could potentially come from props or state in a real application
+  const events = [
+    { id: 1, date: '11 Jun 2023', name: 'Event 1', venue: 'Venue 1, city, country', details: 'Details for Event 1...' },
+    { id: 2, date: '09 Jun 2023', name: 'Event 2', venue: 'Venue 2, city, country', details: 'Details for Event 2...qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq' },
+    { id: 3, date: '05 Jun 2023', name: 'Event 3', venue: 'Venue 3, city, country', details: 'Details for Event 3...' },
+    { id: 4, date: '03 Jun 2023', name: 'Event 4', venue: 'Venue 4, city, country', details: 'Details for Event 4...' },
+    { id: 5, date: '01 Jun 2023', name: 'Event 5', venue: 'Venue 5, city, country', details: 'Details for Event 5...' },
+    { id: 6, date: '30 May 2023', name: 'Event 6', venue: 'Venue 6, city, country', details: 'Details for Event 6...' },
+    { id: 7, date: '28 May 2023', name: 'Event 7', venue: 'Venue 7, city, country', details: 'Details for Event 7...' },
+    { id: 8, date: '25 May 2023', name: 'Event 8', venue: 'Venue 8, city, country', details: 'Details for Event 8...' },
+    { id: 9, date: '22 May 2023', name: 'Event 9', venue: 'Venue 9, city, country', details: 'Details for Event 9...' },
+    { id: 10, date: '20 May 2023', name: 'Event 10', venue: 'Venue 10, city, country', details: 'Details for Event 10...' },
+    // ... add as many events as needed
+  ];
+  const handleEventClick = (event) => {
+    setSelectedEvent(event);
+    console.log(event)
+  };
+
   return (
-    <div>
-    <div className={styles.schedule}>
-      <div className={styles.scheduleChild} />
-   
-      
-      <div className={styles.parent}>
-        <div className={styles.div}>2023</div>
-        <FaArrowDown style={{ color: 'white' }} />
-      </div>
-      <div className={styles.eventsCalendar}>Events calendar</div>
-      <div className={styles.eventName}>Event name</div>
-      <div className={styles.thisIsAnContainer}>
-        <p
-          className={styles.thisIsAn}
-        >{`This is an event description. Phasellus tempus faucibus porta. In luctus maximus enim, nec malesuada tortor accumsan a. Vestibulum euismod vehicula ullamcorper. Nullam sit amet dui elementum, ornare libero eu, fringilla quam. `}</p>
-        <p className={styles.thisIsAn}>&nbsp;</p>
-        <p
-          className={styles.utNisiArcu}
-        >{`Ut nisi arcu, convallis eget sem id, interdum ullamcorper neque. Sed ullamcorper pellentesque ex aliquam tempor. Etiam dignissim nulla odio, eget faucibus metus maximus eu. Duis id lacus nisl. Donec porta justo metus, sit amet dignissim enim rhoncus ac. `}</p>
-      </div>
-      <div className={styles.groupParent}>
-        <div className={styles.groupContainer}>
-          <div className={styles.rectangleGroup}>
-            <div className={styles.groupItem} />
-    <FaArrowRight style={{ color: 'white' }}/>
-            <div className={styles.eventNameParent}>
-              <div className={styles.eventName1}>Event name</div>
-              <div className={styles.venueCityCountry}>
-                Venue, city, country
-              </div>
-            </div>
-          </div>
-          <div className={styles.jun2023}>11 Jun 2023</div>
-        </div>
-        <div className={styles.groupDiv}>
-          <div className={styles.rectangleGroup}>
-            <div className={styles.groupItem} />
-            <FaArrowRight style={{ color: 'white' }}/>
-
-            <div className={styles.eventNameParent}>
-              <div className={styles.eventName1}>Event name</div>
-              <div className={styles.venueCityCountry}>
-                Venue, city, country
-              </div>
-            </div>
-          </div>
-          <div className={styles.jun2023}>05 Jun 2023</div>
-        </div>
-        <div className={styles.groupParent1}>
-          <div className={styles.rectangleGroup}>
-            <div className={styles.groupItem} />
-            <FaArrowRight style={{ color: 'white' }}/>
-
-            <div className={styles.eventNameParent}>
-              <div className={styles.eventName1}>Event name</div>
-              <div className={styles.venueCityCountry}>
-                Venue, city, country
-              </div>
-            </div>
-          </div>
-          <div className={styles.jun2023}>05 Jun 2023</div>
-        </div>
-        <div className={styles.groupParent2}>
-          <div className={styles.rectangleGroup}>
-            <div className={styles.groupItem} />
-            <FaArrowRight style={{ color: 'white' }}/>
-
-            <div className={styles.eventNameParent}>
-              <div className={styles.eventName1}>Event name</div>
-              <div className={styles.venueCityCountry}>
-                Venue, city, country
-              </div>
-            </div>
-          </div>
-          <div className={styles.jun20233}>05 Jun 2023</div>
-        </div>
-        <div className={styles.groupParent3}>
-          <div className={styles.rectangleGroup}>
-            <div className={styles.groupChild2} />
-            <FaArrowRight style={{ color: 'white' }}/>
-
-            <div className={styles.eventNameParent}>
-              <div className={styles.eventName1}>Event name</div>
-              <div className={styles.venueCityCountry4}>
-                Venue, city, country
-              </div>
-            </div>
-          </div>
-          <div className={styles.jun20234}>09 Jun 2023</div>
-        </div>
-      </div>
-      <div className={styles.scheduleInner} />
-      <div className={styles.date}>{`Date: `}</div>
-      <div className={styles.venue}>{`Venue: `}</div>
-      <div className={styles.follow}>{`Follow: `}</div>
-     
-      <div className={styles.scheduleChild2} />
-      <div className={styles.june2023}>09 June 2023</div>
+    <div className={styles.divdiv}>
+        
+    <div className={styles.eventscalendar}>
+      {events.map((event, index) => (
+        <React.Fragment key={index}>
+          <div className={styles.date}>{event.date}</div>
+          <button className={styles.event} onClick={() => handleEventClick(event)}>
+            {event.name}<br />
+            {event.venue}
+          </button>
+        </React.Fragment>
+      ))}
     </div>
+    {selectedEvent && (
+        
+        <div className={styles.eventdetails}>
+        <div className={styles.whitebox}>
+
+        </div>
+        <div className={styles.column}>
+          <h2>{selectedEvent.name}</h2>
+          <div className={styles.detailsev}>
+          <p>{selectedEvent.details}</p>
+          </div>
+          <div className={styles.dateandven}> 
+          <p>Date: {selectedEvent.date}</p>
+          <p>Venue: {selectedEvent.venue}</p>
+          </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 };
 
 export default Schedule;
-

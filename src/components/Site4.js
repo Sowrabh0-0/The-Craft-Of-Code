@@ -49,7 +49,7 @@ const Site11 = () => {
       <div className={styles.rectangleContainer}>
         <div className={styles.groupChild5} />
         <div className={styles.hoverOver}>
-          Hover over / click on a date in the timeline below ;)
+          Hover over / click on a date in the timeline below ;
         </div>
       </div>
       <img
