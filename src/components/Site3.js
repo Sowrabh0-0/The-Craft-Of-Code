@@ -6,7 +6,7 @@ const Site10 = () => {
       <img
         className={styles.adithyanarayananshankar4RemoIcon}
         alt=""
-        src="/adithyanarayananshankar4removebgpreview-1@2x.png"
+        src="./images/Site3.png"
       />
       <div className={styles.iAmAdithyanarayananContainer}>
         <p className={styles.iAmAdithyanarayanan}>
