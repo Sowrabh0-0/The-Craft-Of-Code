@@ -11,8 +11,8 @@
 .groupChild {
   top: 0;
   left: 0;
-  background-color: var(--color-white);
-  border: 2.2px solid var(--color-white);
+  background-color: white;
+  border: 2.2px solid white;
   box-sizing: border-box;
   height: 58.12px;
 }
@@ -50,7 +50,7 @@
   position: absolute;
   top: 0;
   left: 24.7px;
-  background-color: var(--color-white);
+  background-color: white;
   width: 58.12px;
   height: 72.65px;
 }
@@ -58,7 +58,7 @@
   position: absolute;
   top: 34.87px;
   left: 95.17px;
-  font-family: var(--font-venus);
+  font-family: venus;
 }
 .as,
 .shankar {
@@ -67,7 +67,7 @@
 .shankar {
   top: 36.32px;
   left: calc(50% - 276.78px);
-  font-family: var(--font-venus);
+  font-family: venus;
 }
 .as {
   top: 18.16px;
@@ -91,7 +91,7 @@
   position: absolute;
   top: 472.2px;
   left: 10.17px;
-  background-color: var(--color-red);
+  background-color: red;
   width: 198.32px;
   height: 243.36px;
   background-color: #000;
@@ -124,7 +124,7 @@
   position: absolute;
   top: 119.87px;
   left: 220.85px;
-  background-color: var(--color-red);
+  background-color: red;
   width: 198.32px;
   height: 243.36px;
   background-color: #000;
@@ -200,7 +200,7 @@
   font-size: 18.89px;
   line-height: 116.5%;
   font-weight: 500;
-  font-family: var(--font-quanta-grotesk-pro);
+  font-family: quanta-grotesk-pro;
 }
 .groupParent,
 .thisIsA {
@@ -219,7 +219,7 @@
   left: 17.44px;
   height: 85.72px;
   font-size: 11.62px;
-  font-family: var(--font-lato);
+  font-family: lato;
 }
 .gallery {
   position: absolute;
@@ -236,6 +236,6 @@
   height: 733.73px;
   text-align: left;
   font-size: 29.06px;
-  color: var(--color-white);
-  font-family: var(--font-wix-madefor-display);
+  color: white;
+  font-family: wix-madefor-display;
 }

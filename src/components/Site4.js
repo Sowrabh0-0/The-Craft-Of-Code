@@ -10,7 +10,7 @@ const Site11 = () => {
     <div className={styles.site11}>
       <div className={styles.awards}>AWARDS</div>
       <div className={styles.vectorParent}>
-        <img className={styles.groupChild} alt="" src="/line-2.svg" />
+        <img className={styles.groupChild} alt="" src="./images/Line 2.svg" />
         <div className={styles.groupWrapper} onClick={onGroupContainer2Click}>
           <div className={styles.ellipseParent}>
             <div className={styles.groupItem} />
@@ -55,7 +55,7 @@ const Site11 = () => {
       <img
         className={styles.adithyanarayananshankarForHoIcon}
         alt=""
-        src="/adithyanarayananshankarfor-homepageremovebgpreview-1@2x.png"
+        src="/images/img.png"
       />
     </div>
   );

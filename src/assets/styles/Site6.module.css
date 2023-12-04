@@ -22,7 +22,7 @@ body{
   }
   .loremIpsumDolor {
     top: 38.33px;
-    font-family: var(--font-lato);
+    font-family: lato;
     display: inline-block;
     width: 600px;
   }
@@ -39,7 +39,7 @@ body{
     top: 35.71px;
     left: 0;
     line-height: 116.5%;
-    font-family: var(--font-lato);
+    font-family: lato;
     display: inline-block;
     width: 200px;
   }
@@ -55,7 +55,7 @@ body{
     top: 35.71px;
     left: 0;
     line-height: 116.5%;
-    font-family: var(--font-lato);
+    font-family: lato;
     display: inline-block;
     height: 232.47px;
   }
@@ -71,7 +71,7 @@ body{
     top: 30.12px;
     left: 0;
     line-height: 116.5%;
-    font-family: var(--font-lato);
+    font-family: lato;
     display: inline-block;
     width: 300px;
   }
@@ -81,14 +81,14 @@ body{
     left: 446.25px;
     width: 300px;
     height: 78.12px;
-    font-size: var(--font-size-sm-9);
+    font-size: small 9px;
   }
   .loremIpsumDolor4 {
     position: absolute;
     top: 35.21px;
     left: 0;
     line-height: 116.5%;
-    font-family: var(--font-lato);
+    font-family: lato;
     display: inline-block;
     width: 300px;
   }
@@ -114,7 +114,7 @@ body{
     top: 512.69px;
     left: 446.25px;
     height: 110.12px;
-    font-size: var(--font-size-sm-9);
+    font-size: small;
   }
   .loremIpsumDolor7,
   .thing2 {
@@ -130,7 +130,7 @@ body{
   }
   .loremIpsumDolor7 {
     top: 36.09px;
-    font-family: var(--font-lato);
+    font-family: lato;
     width: 500px;
   }
   .thing2Parent {
@@ -145,7 +145,7 @@ body{
     position: absolute;
     top: 299.63px;
     left: 122.62px;
-    border-top: 0.8px solid var(--color-white);
+    border-top: 0.8px solid white;
     box-sizing: border-box;
     width: 668.26px;
     height: 0.75px;
@@ -170,7 +170,7 @@ body{
   }
   .lineDiv,
   .site12Child1 {
-    border-right: 0.8px solid var(--color-white);
+    border-right: 0.8px solid white;
     width: 0.75px;
     background-color: white;
 
@@ -200,7 +200,7 @@ body{
   .site12Child2 {
     top: 472.13px;
     left: 401.62px;
-    border-top: 0.8px solid var(--color-white);
+    border-top: 0.8px solid white;
     width: 389.26px;
     height: 0.75px;
 
@@ -208,7 +208,7 @@ body{
   .site12Child3 {
     top: 386.56px;
     left: 1073.25px;
-    border-right: 0.8px solid var(--color-white);
+    border-right: 0.8px solid white;
     width: 0.75px;
     height: 340.64px;
   }
@@ -220,7 +220,7 @@ body{
     overflow: hidden;
     text-align: left;
     font-size: 15.58px;
-    color: var(--color-white);
-    font-family: var(--font-venus);
+    color: white;
+    font-family: venus;
   }
   

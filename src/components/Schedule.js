@@ -7,7 +7,7 @@ const Schedule = () => {
   // This array could potentially come from props or state in a real application
   const events = [
     { id: 1, date: '11 Jun 2023', name: 'Event 1', venue: 'Venue 1, city, country', details: 'Details for Event 1...' },
-    { id: 2, date: '09 Jun 2023', name: 'Event 2', venue: 'Venue 2, city, country', details: 'Details for Event 2...qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq' },
+    { id: 2, date: '09 Jun 2023', name: 'Event 2', venue: 'Venue 2, city, country', details: 'Details for Event 2...' },
     { id: 3, date: '05 Jun 2023', name: 'Event 3', venue: 'Venue 3, city, country', details: 'Details for Event 3...' },
     { id: 4, date: '03 Jun 2023', name: 'Event 4', venue: 'Venue 4, city, country', details: 'Details for Event 4...' },
     { id: 5, date: '01 Jun 2023', name: 'Event 5', venue: 'Venue 5, city, country', details: 'Details for Event 5...' },

@@ -66,8 +66,8 @@ const Site6 = () => {
         </div>
       </div>
       <div className={styles.site12Child} />
-      <img className={styles.site12Item} alt="" src="/line-5.svg" />
-      <img className={styles.site12Inner} alt="" src="/line-7.svg" />
+      <img className={styles.site12Item} alt="" src="./images/Line 5.svg" />
+      <img className={styles.site12Inner} alt="" src="./images/Line 7.svg" />
       <div className={styles.lineDiv} />
       <div className={styles.site12Child1} />
       <div className={styles.site12Child2} />

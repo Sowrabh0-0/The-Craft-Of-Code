@@ -1,4 +1,5 @@
 import styles from "../assets/styles/Site3.module.css";
+import SideNav from "./SideNav";
 
 const Site10 = () => {
   return (

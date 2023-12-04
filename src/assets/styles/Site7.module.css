@@ -8,7 +8,7 @@
   left: 121px;
   font-size: 30.67px;
   letter-spacing: 0.06em;
-  font-family: var(--font-venus);
+  font-family: venus;
 }
 .nameOfDegree {
   top: 0;
@@ -19,7 +19,7 @@
   position: absolute;
   top: 32.34px;
   left: -0.35px;
-  border-top: 0.7px solid var(--color-white);
+  border-top: 0.7px solid white;
   box-sizing: border-box;
   width: 190.7px;
   height: 0.7px;
@@ -44,7 +44,7 @@
   top: 353.79px;
 }
 .groupDiv {
-  top: 410.14px;
+  top: 410.13px;
 }
 .aCoupleOf,
 .div,
@@ -62,23 +62,23 @@
 .aCoupleOf {
   top: 110.71px;
   font-size: 18.57px;
-  font-family: var(--font-lato);
+  font-family: lato;
   display: inline-block;
   width: 390px;
 }
 .nameOfDegreeParent1 {
   position: absolute;
-  top: 278px;
-  left: 587px;
+  top: 274px;
+  left: 545px;
   width: 390px;
   height: 154.71px;
   font-size: 35.71px;
-  font-family: var(--font-subjectivity);
+  font-family: subjectivity;
 }
 .rectangleDiv {
   top: 0;
   left: 0;
-  background-color: var(--color-white);
+  background-color: white;
   width: 201.19px;
   height: 234.35px;
 }
@@ -92,7 +92,7 @@
 .groupChild1 {
   top: 9.69px;
   left: calc(50% - 93.56px);
-  background-color: var(--color-gainsboro);
+  background-color: gainsboro;
   width: 183.24px;
   height: 182.15px;
 }
@@ -105,7 +105,7 @@
 .groupChild2 {
   top: 0;
   left: 0;
-  background-color: var(--color-white);
+  background-color: white;
   width: 201.19px;
   height: 234.35px;
 }
@@ -119,14 +119,13 @@
 .groupChild3 {
   top: 10.77px;
   left: 5.24px;
-  background-color: var(--color-gainsboro);
+  background-color: gainsboro;
   width: 183.24px;
   height: 182.15px;
 }
 .rectangleGroup {
   top: 319.79px;
   left: 1214.37px;
-  box-shadow: 0-5.074949741363525px 11.6px rgba(0, 0, 0, 0.25);
   width: 201.19px;
   height: 234.35px;
 }
@@ -139,8 +138,8 @@
 }
 .awardRecognitionContainer {
   position: absolute;
-  top: 477.29px;
-  left: 587px;
+  top: 473.29px;
+  left: 545px;
   font-size: var(--font-inherit);
   line-height: 116.5%;
   font-weight: 300;
@@ -154,6 +153,6 @@
   overflow: hidden;
   text-align: left;
   font-size: 18.09px;
-  color: var(--color-white);
-  font-family: var(--font-quanta-grotesk-pro);
+  color:white;
+  font-family: quanta-grotesk-pro;
 }

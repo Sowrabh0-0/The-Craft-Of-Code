@@ -12,7 +12,7 @@
   .blankLine {
     margin: 0;
     font-size: 30.43px;
-    font-family: var(--font-inter);
+    font-family: inter;
     color: #003a22;
   }
   .aSingerVoice {
@@ -20,7 +20,7 @@
   }
   .aSingerVoiceArtistAndMus,
   .span {
-    font-family: var(--font-subjectivity);
+    font-family: subjectivity;
   }
   .aSingerVoiceArtistAndMus {
     margin: 0;
@@ -32,17 +32,17 @@
   .iAmAdithyanarayananContainer,
   .iWorkAs {
     position: absolute;
-    top: 79px;
+    top: 120px;
     left: 188px;
     display: inline-block;
     width: 700px;
     height: 307.11px;
   }
   .iWorkAs {
-    top: 515px;
+    top: 450px;
     font-size: 24.35px;
     line-height: 133%;
-    font-family: var(--font-lato);
+    font-family: lato;
     width: 600px;
     height: 266.96px;
   }
@@ -54,7 +54,7 @@
     overflow: hidden;
     text-align: left;
     font-size: 73.78px;
-    color: var(--color-white);
-    font-family: var(--font-brant);
+    color: white;
+    font-family: brant;
   }
   

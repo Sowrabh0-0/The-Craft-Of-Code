@@ -1,308 +1,314 @@
 .groupChild {
-    position: absolute;
-    top: -2.5px;
-    left: 60.45px;
-    border-right: 5px solid var(--color-white);
-    box-sizing: border-box;
-    width: 5px;
-    height: 909px;
-  }
-  .vectorIcon,
-  .vectorIcon1 {
-    max-width: 100%;
-    max-height: 100%;
-  }
-  .vectorIcon {
-    position: absolute;
-    height: 26.44%;
-    width: 26.44%;
-    top: 5%;
-    right: 4.98%;
-    bottom: 68.56%;
-    left: 68.58%;
-    overflow: hidden;
-  }
-  .vectorIcon1 {
-    height: 100%;
-    width: 100%;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-  }
-  .vectorIcon1,
-  .vectorIcon2,
-  .vectorIcon3 {
-    position: absolute;
-    overflow: hidden;
-  }
-  .vectorIcon2 {
-    height: 28.08%;
-    width: 28.1%;
-    top: 41.59%;
-    right: 41.57%;
-    bottom: 30.33%;
-    left: 30.33%;
-    max-width: 100%;
-    max-height: 100%;
-  }
-  .vectorIcon3 {
-    height: 21.59%;
-    width: 21.59%;
-    top: 74.87%;
-    right: 74.88%;
-    bottom: 3.53%;
-    left: 3.53%;
-  }
-  .vectorIcon3,
-  .vectorIcon4,
-  .vectorIcon5 {
-    max-width: 100%;
-    max-height: 100%;
-  }
-  .vectorIcon4 {
-    position: absolute;
-    height: 54.7%;
-    width: 54.69%;
-    top: 25.7%;
-    right: 25.72%;
-    bottom: 19.59%;
-    left: 19.59%;
-    overflow: hidden;
-  }
-  .vectorIcon5 {
-    height: 15.42%;
-    width: 19.77%;
-    top: 81.05%;
-    right: 74.87%;
-    bottom: 3.53%;
-    left: 5.36%;
-  }
-  .vectorIcon5,
-  .vectorIcon6,
-  .vectorIcon7 {
-    position: absolute;
-    overflow: hidden;
-  }
-  .vectorIcon6 {
-    height: 17.34%;
-    width: 20.23%;
-    top: 77.78%;
-    right: 76.23%;
-    bottom: 4.87%;
-    left: 3.53%;
-    max-width: 100%;
-    max-height: 100%;
-  }
-  .vectorIcon7 {
-    height: 48.27%;
-    width: 48.22%;
-    top: 32.14%;
-    right: 25.72%;
-    bottom: 19.59%;
-    left: 26.06%;
-  }
-  .vectorIcon7,
-  .vectorIcon8,
-  .vectorIcon9 {
-    max-width: 100%;
-    max-height: 100%;
-  }
-  .vectorIcon8 {
-    position: absolute;
-    height: 50.14%;
-    width: 50.11%;
-    top: 28.92%;
-    right: 27.09%;
-    bottom: 20.94%;
-    left: 22.8%;
-    overflow: hidden;
-  }
-  .vectorIcon9 {
-    height: 9.98%;
-    width: 19.89%;
-    top: 21.45%;
-    right: 4.98%;
-    bottom: 68.56%;
-    left: 75.12%;
-  }
-  .basson,
-  .vectorIcon10,
-  .vectorIcon9 {
-    position: absolute;
-    overflow: hidden;
-  }
-  .vectorIcon10 {
-    height: 11.91%;
-    width: 21.81%;
-    top: 18.17%;
-    right: 6.34%;
-    bottom: 69.92%;
-    left: 71.84%;
-    max-width: 100%;
-    max-height: 100%;
-  }
-  .basson {
-    text-decoration: none;
-    top: 112px;
-    left: 21.95px;
-    width: 77px;
-    height: 83.02px;
-  }
-  .vectorIcon11,
-  .vectorIcon12 {
-    max-width: 100%;
-    max-height: 100%;
-  }
-  .vectorIcon11 {
-    position: absolute;
-    height: 55.66%;
-    width: 62.5%;
-    top: 18.15%;
-    right: 141.89%;
-    bottom: 26.2%;
-    left: -104.39%;
-    overflow: hidden;
-  }
-  .vectorIcon12 {
-    height: 55.57%;
-    width: 61.88%;
-    top: 12%;
-    right: 124.96%;
-    bottom: 32.43%;
-    left: -86.84%;
-  }
-  .tabla,
-  .vectorIcon12,
-  .vectorIcon13 {
-    position: absolute;
-    overflow: hidden;
-  }
-  .vectorIcon13 {
-    height: 71.48%;
-    width: 80.39%;
-    top: 19.75%;
-    right: 106.13%;
-    bottom: 8.76%;
-    left: -86.53%;
-    max-width: 100%;
-    max-height: 100%;
-  }
-  .tabla {
-    text-decoration: none;
-    top: 270px;
-    left: 105.88px;
-    width: 81px;
-    height: 90.95px;
-    transform: rotate(89deg);
-    transform-origin: 0 0;
-    cursor: pointer;
-  }
-  .vectorIcon14,
-  .vectorIcon15,
-  .vectorIcon16 {
-    position: absolute;
-    height: 99.89%;
-    width: 79.47%;
-    top: 0.07%;
-    right: 0.01%;
-    bottom: 0.05%;
-    left: 20.52%;
-    max-width: 100%;
-    overflow: hidden;
-    max-height: 100%;
-  }
-  .vectorIcon15,
-  .vectorIcon16 {
-    height: 29.04%;
-    width: 23.92%;
-    top: 63.32%;
-    right: 70.66%;
-    bottom: 7.64%;
-    left: 5.41%;
-  }
-  .vectorIcon16 {
-    height: 45.66%;
-    width: 69.74%;
-    top: 52.12%;
-    right: 30.26%;
-    bottom: 2.22%;
-    left: 0;
-  }
-  .vectorIcon17,
-  .vectorIcon18 {
-    height: 11.73%;
-    max-width: 100%;
-    max-height: 100%;
-  }
-  .vectorIcon17 {
-    position: absolute;
-    width: 16.53%;
-    top: 48.76%;
-    right: 60.9%;
-    bottom: 39.52%;
-    left: 22.57%;
-    overflow: hidden;
-  }
-  .vectorIcon18 {
-    width: 16.55%;
-    top: 41.54%;
-    right: 53.66%;
-    bottom: 46.73%;
-    left: 29.79%;
-  }
-  .tuba,
-  .vectorIcon18,
-  .vectorIcon19 {
-    position: absolute;
-    overflow: hidden;
-  }
-  .vectorIcon19 {
-    height: 5.99%;
-    width: 6%;
-    top: 40.05%;
-    right: 56.98%;
-    bottom: 53.95%;
-    left: 37.02%;
-    max-width: 100%;
-    max-height: 100%;
-  }
-  .tuba {
-    text-decoration: none;
-    top: 409px;
-    left: 15.95px;
-    width: 89px;
-    height: 97.34px;
-  }
-  .frenchHornIcon,
-  .sitarIcon {
-    position: absolute;
-    top: 564.28px;
-    left: 0;
-    width: 112.89px;
-    height: 117.67px;
-    overflow: hidden;
-  }
-  .sitarIcon {
-    top: 740px;
-    left: 12.95px;
-    width: 92.49px;
-    height: 108px;
-    cursor: pointer;
-  }
-  .groupItem {
-    position: absolute;
-    top: 24px;
-    left: calc(50% - 28.5px);
-    background-color: var(--color-white);
-    width: 61px;
-    height: 15px;
-  }
-  .lineParent {
-    position: absolute;
-    top: 96px;
-    left: 15.05px;
-    width: 112.89px;
-    height: 904px;
-  }
-  
+  position: absolute;
+  top: -2.5px;
+  left: 60.45px;
+  border-right: 5px solid white;
+  box-sizing: border-box;
+  width: 5px;
+  height: 909px;
+}
+.vectorIcon,
+.vectorIcon1 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.vectorIcon {
+  position: absolute;
+  height: 26.44%;
+  width: 26.44%;
+  top: 5%;
+  right: 4.98%;
+  bottom: 68.56%;
+  left: 68.58%;
+  overflow: hidden;
+}
+.vectorIcon1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.vectorIcon1,
+.vectorIcon2,
+.vectorIcon3 {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon2 {
+  height: 28.08%;
+  width: 28.1%;
+  top: 41.59%;
+  right: 41.57%;
+  bottom: 30.33%;
+  left: 30.33%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vectorIcon3 {
+  height: 21.59%;
+  width: 21.59%;
+  top: 74.88%;
+  right: 74.88%;
+  bottom: 3.53%;
+  left: 3.53%;
+}
+.vectorIcon3,
+.vectorIcon4,
+.vectorIcon5 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.vectorIcon4 {
+  position: absolute;
+  height: 54.7%;
+  width: 54.69%;
+  top: 25.7%;
+  right: 25.72%;
+  bottom: 19.59%;
+  left: 19.59%;
+  overflow: hidden;
+}
+.vectorIcon5 {
+  height: 15.42%;
+  width: 19.77%;
+  top: 81.05%;
+  right: 74.87%;
+  bottom: 3.53%;
+  left: 5.36%;
+}
+.vectorIcon5,
+.vectorIcon6,
+.vectorIcon7 {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon6 {
+  height: 17.34%;
+  width: 20.23%;
+  top: 77.78%;
+  right: 76.23%;
+  bottom: 4.87%;
+  left: 3.53%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vectorIcon7 {
+  height: 48.27%;
+  width: 48.22%;
+  top: 32.14%;
+  right: 25.72%;
+  bottom: 19.59%;
+  left: 26.06%;
+}
+.vectorIcon7,
+.vectorIcon8,
+.vectorIcon9 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.vectorIcon8 {
+  position: absolute;
+  height: 50.14%;
+  width: 50.11%;
+  top: 28.92%;
+  right: 27.09%;
+  bottom: 20.94%;
+  left: 22.8%;
+  overflow: hidden;
+}
+.vectorIcon9 {
+  height: 9.98%;
+  width: 19.89%;
+  top: 21.45%;
+  right: 4.98%;
+  bottom: 68.56%;
+  left: 75.12%;
+}
+.basson,
+.vectorIcon10,
+.vectorIcon9 {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon10 {
+  height: 11.91%;
+  width: 21.81%;
+  top: 18.17%;
+  right: 6.34%;
+  bottom: 69.92%;
+  left: 71.84%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.basson {
+  text-decoration: none;
+  top: 112px;
+  left: 21.95px;
+  width: 77px;
+  height: 83.02px;
+}
+.vectorIcon11,
+.vectorIcon12 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.vectorIcon11 {
+  position: absolute;
+  height: 55.66%;
+  width: 62.5%;
+  top: 18.15%;
+  right: 141.89%;
+  bottom: 26.19%;
+  left: -104.39%;
+  overflow: hidden;
+}
+.vectorIcon12 {
+  height: 55.57%;
+  width: 61.88%;
+  top: 12%;
+  right: 124.96%;
+  bottom: 32.43%;
+  left: -86.84%;
+}
+.tabla,
+.vectorIcon12,
+.vectorIcon13 {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon13 {
+  height: 71.48%;
+  width: 80.39%;
+  top: 19.75%;
+  right: 106.13%;
+  bottom: 8.76%;
+  left: -86.53%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.tabla {
+  text-decoration: none;
+  top: 270px;
+  left: 105.88px;
+  width: 81px;
+  height: 90.95px;
+  transform: rotate(89deg);
+  transform-origin: 0 0;
+  cursor: pointer;
+}
+.vectorIcon14,
+.vectorIcon15,
+.vectorIcon16 {
+  position: absolute;
+  height: 99.89%;
+  width: 79.47%;
+  top: 0.06%;
+  right: 0.01%;
+  bottom: 0.05%;
+  left: 20.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon15,
+.vectorIcon16 {
+  height: 29.04%;
+  width: 23.92%;
+  top: 63.32%;
+  right: 70.66%;
+  bottom: 7.64%;
+  left: 5.41%;
+}
+.vectorIcon16 {
+  height: 45.66%;
+  width: 69.74%;
+  top: 52.12%;
+  right: 30.26%;
+  bottom: 2.22%;
+  left: 0;
+}
+.vectorIcon17,
+.vectorIcon18 {
+  height: 11.73%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vectorIcon17 {
+  position: absolute;
+  width: 16.53%;
+  top: 48.76%;
+  right: 60.9%;
+  bottom: 39.51%;
+  left: 22.57%;
+  overflow: hidden;
+}
+.vectorIcon18 {
+  width: 16.55%;
+  top: 41.54%;
+  right: 53.66%;
+  bottom: 46.73%;
+  left: 29.79%;
+}
+.tuba,
+.vectorIcon18,
+.vectorIcon19 {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon19 {
+  height: 5.99%;
+  width: 6%;
+  top: 40.05%;
+  right: 56.98%;
+  bottom: 53.95%;
+  left: 37.02%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.tuba {
+  text-decoration: none;
+  top: 409px;
+  left: 15.95px;
+  width: 89px;
+  height: 97.34px;
+}
+.frenchHornIcon,
+.sitarIcon {
+  position: absolute;
+  top: 564.28px;
+  left: 0;
+  width: 112.89px;
+  height: 117.67px;
+  overflow: hidden;
+}
+.sitarIcon {
+  top: 740px;
+  left: 12.95px;
+  width: 92.49px;
+  height: 108px;
+  cursor: pointer;
+}
+.groupItem {
+  position: absolute;
+  top: 24px;
+  left: calc(50% - 55px);
+  background-color: white;
+  width: 61px;
+  height: 15px;
+}
+.lineParent {
+  position: absolute;
+  top: 96px;
+  left: 15.05px;
+  width: 112.89px;
+  height: 904px;
+}
+.site15 {
+  position: relative;
+  background: radial-gradient(50% 50%at 50% 50%, #5c6376, #353844);
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
