@@ -13,7 +13,6 @@ const Main = () => {
   return (
     <div className={styles.mainContainer}>
       <Home showMusicController={true} />
-      <SideNav/>
       <Site3 />
       <Site4/>
       <Site6/>

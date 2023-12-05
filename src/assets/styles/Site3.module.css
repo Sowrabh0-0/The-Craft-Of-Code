@@ -57,4 +57,136 @@
     color: white;
     font-family: brant;
   }
-  
+  @media (max-width:700px){
+    .adithyanarayananshankar4RemoIcon {
+      position: absolute;
+      top: 773.95px;
+      left: 249.3px;
+      width: 602.79px;
+      height: 960.19px;
+      object-fit: cover;
+    }
+    .iAm {
+      margin: 0;
+    }
+    .blankLine {
+      margin: 0;
+      font-size: 36.84px;
+      font-family: var(--font-inter);
+      color: #003a22;
+    }
+    .aSingerVoice {
+      font-weight: 500;
+    }
+    .aSingerVoiceArtistAndMus {
+      margin: 0;
+      font-size: 40.93px;
+    }
+    .aSingerVoiceArtistAndMus,
+    .span {
+      font-family: var(--font-subjectivity);
+    }
+    .span2 {
+      font-size: 37.22px;
+    }
+    .iAmAdithyanarayananContainer,
+    .iHaveMore,
+    .iWorkAs {
+      position: absolute;
+      left: 52.09px;
+      display: inline-block;
+    }
+    .iAmAdithyanarayananContainer {
+      top: 266.05px;
+      width: 695.81px;
+      height: 372.09px;
+      font-size: 66.98px;
+      font-family: var(--font-brant);
+    }
+    .iHaveMore,
+    .iWorkAs {
+      top: 749.77px;
+      line-height: 133%;
+      width: 688.37px;
+      height: 498.6px;
+    }
+    .iHaveMore {
+      top: 989.77px;
+      width: 245.58px;
+    }
+    .mobileFrame3 {
+      position: relative;
+      background: radial-gradient(50% 50%at 50% 50%, #414553, #313441);
+      width: 100%;
+      height: 1733.95px;
+      overflow: hidden;
+      text-align: left;
+      font-size: 40.93px;
+      color: white;
+      font-family: var(--font-lato);
+    }
+    
+  }
+  @media (min-width:2000px) {
+    .iAmAdithyanarayanan {
+      margin: 0;
+    }
+    .blankLine {
+      margin: 0;
+      font-size: 33px;
+      font-family: var(--font-inter);
+      color: #003a22;
+    }
+    .aSingerVoice {
+      font-weight: 100;
+    }
+    .aSingerVoiceArtistAndMus,
+    .span {
+      font-family: var(--font-subjectivity);
+    }
+    .aSingerVoiceArtistAndMus {
+      margin: 0;
+      font-size: 50px;
+    }
+    .span {
+      font-size: 33.34px;
+    }
+    .iAmAdithyanarayananContainer,
+    .iWorkAs {
+      position: absolute;
+      top: 187px;
+      left: 246px;
+      display: inline-block;
+      width: 759px;
+      height: 333px;
+    }
+    .iWorkAs {
+      top: 621px;
+      font-size: 28px;
+      line-height: 133%;
+      font-family: var(--font-lato);
+      width: 690px;
+      height: 307px;
+    }
+    .adithyanarayananshankar4RemoIcon {
+      position: absolute;
+      top: 0;
+      left: 1252px;
+      width: 705px;
+      height: 1123px;
+      object-fit: cover;
+    }
+    .site3 {
+      position: relative;
+      background: radial-gradient(50% 50%at 50% 50%, #5c6376, #353844);
+      width: 100%;
+      height: 1000px;
+      overflow: hidden;
+      text-align: left;
+      font-size: 80px;
+      color: white;
+      font-family: var(--font-brant);
+    }
+    
+    
+  }

@@ -68,6 +68,10 @@
     width: 15.51px;
     height: 15.51px;
   }
+  .ellipseDiv:hover{
+    background-color: #353844;
+    
+  }
   .groupChild1,
   .jun2023Parent {
     position: absolute;
@@ -111,6 +115,12 @@
     background-color: white;
     width: 15.51px;
     height: 15.51px;
+  }
+  .groupChild1:hover{
+    background-color: #353844;
+  }
+  .groupChild3:hover{
+    background-color: #353844;
   }
   .farFutureParent,
   .nearFutureParent {
@@ -217,3 +227,227 @@
     font-family: quanta-grotesk-pro;
   }
   
+  @media (min-width:2000px) {
+    .awards {
+      position: absolute;
+      top: 915px;
+      left: 136px;
+      letter-spacing: 0.06em;
+      line-height: 116.5%;
+      font-family: var(--font-venus);
+    }
+    .groupChild {
+      position: absolute;
+      top: 60.63px;
+      left: 86.7px;
+      width: 1434.3px;
+      height: 4.5px;
+    }
+    .groupItem {
+      position: absolute;
+      top: 35px;
+      left: calc(50% - 13px);
+      border-radius: 50%;
+      background-color: var(--color-gray);
+      width: 25px;
+      height: 25px;
+    }
+    .groupInner {
+      position: absolute;
+      top: 0;
+      left: 0;
+      border-radius: 50px;
+      background-color:white;
+      width: 164px;
+      height: 30.21px;
+    }
+    .may2023 {
+      position: relative;
+      top: 5px;
+      left: 5px;
+      letter-spacing: 0.06em;
+      line-height: 116.5%;
+      font-size: 20px;
+      color: rgb(128, 128, 128);
+    }
+    .rectangleParent {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 164px;
+      height: 30.21px;
+    }
+    .ellipseParent,
+    .groupWrapper {
+      position: absolute;
+      top: 0;
+      left: calc(50% - 82px);
+      width: 164px;
+      height: 60px;
+    }
+    .groupWrapper {
+      top: 15.13px;
+      left: calc(50% - 598px);
+      cursor: pointer;
+      color: var(--color-gray);
+    }
+    .ellipseDiv {
+      position: absolute;
+      top: 25px;
+      left: 42px;
+      border-radius: 50%;
+      background-color:white;
+      width: 25px;
+      height: 25px;
+    }
+    .groupChild1,
+    .jun2023Parent {
+      position: absolute;
+      top: 25.13px;
+      left: 388.84px;
+      width: 111px;
+      height: 50px;
+    }
+    .groupChild1 {
+      top: 25px;
+      left: 36px;
+      border-radius: 50%;
+      background-color:white;
+      width: 25px;
+      height: 25px;
+    }
+    .feb2024Parent,
+    .oct2023Parent {
+      position: absolute;
+      top: 25.13px;
+      left: 535.84px;
+      width: 98px;
+      height: 50px;
+      text-align: left;
+    }
+    .feb2024Parent {
+      left: 720.84px;
+    }
+    .nearFuture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      letter-spacing: 0.06em;
+      line-height: 116.5%;
+    }
+    .groupChild3 {
+      position: absolute;
+      top: 25px;
+      left: 44px;
+      border-radius: 50%;
+      background-color:white;
+      width: 25px;
+      height: 25px;
+    }
+    .farFutureParent,
+    .nearFutureParent {
+      position: absolute;
+      top: 25.13px;
+      left: 926.84px;
+      width: 113px;
+      height: 50px;
+    }
+    .farFutureParent {
+      left: 1128.84px;
+      width: 108px;
+    }
+    .inception,
+    .rectangleDiv,
+    .xy092022 {
+      position: absolute;
+      transform: rotate(-12deg);
+      transform-origin: 0 0;
+    }
+    .rectangleDiv {
+      top: 37.59px;
+      left: 0;
+      background-color: var(--color-gray);
+      width: 180.79px;
+      height: 66.41px;
+    }
+    .inception,
+    .xy092022 {
+      letter-spacing: 0.06em;
+      line-height: 116.5%;
+    }
+    .inception {
+      top: 62.2px;
+      left: 45.84px;
+      font-weight: 600;
+    }
+    .xy092022 {
+      top: 33.91px;
+      left: 51.84px;
+      font-size: var(--font-size-xl);
+    }
+    .rectangleGroup,
+    .vectorParent {
+      position: absolute;
+      height: 102.55px;
+    }
+    .rectangleGroup {
+      top: 0;
+      left: 0;
+      width: 190.64px;
+      text-align: left;
+      font-size: 24px;
+    }
+    .vectorParent {
+      top: 888.87px;
+      left: 399px;
+      width: 1612px;
+      text-align: center;
+      font-size: var(--font-size-xl);
+    }
+    .groupChild5 {
+      position: absolute;
+      top: 0;
+      left: 0;
+      border: 2px solidwhite;
+      box-sizing: border-box;
+      width: 1558px;
+      height: 494px;
+    }
+    .hoverOver {
+      position: absolute;
+      top: calc(50% - 42px);
+      left: calc(50% - 95px);
+      letter-spacing: 0.06em;
+      line-height: 116.5%;
+      display: inline-block;
+      width: 806px;
+    }
+    .rectangleContainer {
+      position: absolute;
+      top: 254px;
+      left: 181px;
+      width: 1558px;
+      height: 494px;
+      font-size: 36px;
+    }
+    .adithyanarayananshankarForHoIcon {
+      position: absolute;
+      top: 265px;
+      left: 131px;
+      width: 775px;
+      height: 481px;
+      object-fit: cover;
+    }
+    .site4 {
+      position: relative;
+      background: radial-gradient(50% 50%at 50% 50%, #5c6376, #353844);
+      width: 100%;
+      height: 1000px;
+      overflow: hidden;
+      text-align: left;
+      font-size: 50px;
+      color:white;
+      font-family: var(--font-quanta-grotesk-pro);
+    }
+    
+  }

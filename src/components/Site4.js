@@ -37,7 +37,7 @@ const Site11 = () => {
           <div className={styles.groupChild3} />
         </div>
         <div className={styles.farFutureParent}>
-          <div className={styles.nearFuture}>Far future?</div>
+          <div className={styles.nearFuture} >Far future?</div>
           <div className={styles.ellipseDiv} />
         </div>
         <div className={styles.rectangleGroup}>

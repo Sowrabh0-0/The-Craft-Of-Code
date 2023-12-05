@@ -222,5 +222,447 @@ body{
     font-size: 15.58px;
     color: white;
     font-family: venus;
+    
   }
+  @media (max-width:800px){
+    .education,
+.thing1 {
+  position: absolute;
+  line-height: 116.5%;
+}
+.education {
+  top: 1646.51px;
+  left: 26.05px;
+  letter-spacing: 0.06em;
+}
+.loremIpsumDolor3,.loremIpsumDolor4,.loremIpsumDolor2,.loremIpsumDolor1,.loremIpsumDolor{
+  display: none;
+}
+.thing1 {
+  top: 0;
+  left: 1.89px;
+  font-weight: 500;
+  font-size: 30px;
   
+}
+.experience{
+  top: 1000px;
+  left: 10px;
+  font-size: 25px;
+}
+.site12Inner{
+  position: absolute;
+  top: 660.6px;
+  left: 0;
+  height: 3px;
+  background-color: white;
+  width: 90%;
+}
+.site12Item{
+  position: absolute;
+  top: 820.6px;
+  left: 0;
+  height: 3px;
+  background-color: white;
+  width: 90%;
+}
+.site12Child{
+  position: absolute;
+  top: 970.6px;
+  left: 0;
+  height: 3px;
+  background-color: white;
+  width: 90%;
+}
+.lineDiv{
+  position: absolute;
+  top: 116.6px;
+  left: 0;
+  height: 3px;
+  background-color: white;
+  width: 90%;
+}
+.site12Child1{
+  position: absolute;
+  top: 250.6px;
+  left: 0;
+  width: 90%;
+height: 3px;
+  background-color: white;
+}
+.site12Child2{
+  position: absolute;
+  top: 390.6px;
+  left: 0;
+  width: 90%;
+height: 3px;
+  background-color: white;
+}
+.site12Child3{
+  position: absolute;
+  top: 510.6px;
+  left: 0;
+  width: 90%;
+height: 3px;
+  background-color: white;
+}
+.groupChild {
+  position: absolute;
+  top: 86.51px;
+  left: -0.93px;
+  border-top: 1.9px solid white;
+  box-sizing: border-box;
+  width: 701.4px;
+  height: 1.86px;
+}
+.groupItem,
+.thing1Parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 699.53px;
+  height: 87.44px;
+}
+.groupItem {
+  top: 86.57px;
+  left: -0.93px;
+  border-top: 1.9px solid white;
+  box-sizing: border-box;
+  width: 701.4px;
+  height: 1.86px;
+}
+.groupInner,
+.thing2Parent {
+  position: absolute;
+  top: 152.5px;
+  left: 0;
+  width: 699.53px;
+  height: 87.5px;
+}
+.groupInner {
+  top: 86.62px;
+  left: -0.93px;
+  border-top: 1.9px solid white;
+  box-sizing: border-box;
+  width: 701.4px;
+  height: 1.86px;
+}
+.lineDiv,
+.thing3Parent {
+  position: absolute;
+  top: 305.01px;
+  left: 0;
+  width: 699.53px;
+  height: 87.55px;
+}
+.lineDiv {
+  top: 86.67px;
+  left: -0.93px;
+  border-top: 1.9px solid white;
+  box-sizing: border-box;
+  width: 701.4px;
+  height: 1.86px;
+}
+.groupChild1,
+.thing4Parent {
+  position: absolute;
+  top: 457.51px;
+  left: 0;
+  width: 699.53px;
+  height: 87.6px;
+}
+.groupChild1 {
+  top: 86.73px;
+  left: -0.93px;
+  border-top: 1.9px solid white;
+  box-sizing: border-box;
+  width: 701.4px;
+  height: 1.86px;
+}
+.groupChild2,
+.thing5Parent {
+  position: absolute;
+  top: 610.02px;
+  left: 0;
+  width: 699.53px;
+  height: 87.66px;
+}
+.groupChild2 {
+  top: 86.78px;
+  left: -0.93px;
+  border-top: 1.9px solid white;
+  box-sizing: border-box;
+  width: 701.4px;
+  height: 1.86px;
+}
+.groupChild3,
+.thing6Parent {
+  position: absolute;
+  top: 762.52px;
+  left: 0;
+  width: 699.53px;
+  height: 87.71px;
+}
+.groupChild3 {
+  top: 86.83px;
+  left: -0.93px;
+  border-top: 1.9px solid white;
+  box-sizing: border-box;
+  width: 701.4px;
+  height: 1.86px;
+}
+.groupChild4,
+.thing7Parent {
+  position: absolute;
+  top: 915.03px;
+  left: 0;
+  width: 699.53px;
+  height: 87.76px;
+}
+.groupChild4 {
+  top: 86.89px;
+  left: -0.93px;
+  border-top: 1.9px solid white;
+  box-sizing: border-box;
+  width: 701.4px;
+  height: 1.86px;
+}
+.groupParent,
+.thing8Parent {
+  position: absolute;
+  top: 1067.53px;
+  left: 0;
+  width: 699.53px;
+  height: 87.82px;
+}
+.groupParent {
+  top: 321.86px;
+  left: 52.09px;
+  height: 1155.35px;
+  font-size: 44.65px;
+  font-family: var(--font-quanta-grotesk-pro);
+}
+.mobileFrame11 {
+  position: relative;
+  background: radial-gradient(50% 50%at 50% 50%, #414553, #313441);
+  width: 100%;
+  height: 1733.95px;
+  text-align: left;
+  font-size: 55.81px;
+  color: white;
+  font-family: var(--font-venus);
+}
+.loremIpsumDolor7{
+  display: none;
+}
+.thing2{
+  font-size: 40px;
+}
+  }
+
+  @media (min-width:2000px) {
+    .experience {
+      position: absolute;
+      top: 915px;
+      left: 136px;
+      font-size: 50px;
+      letter-spacing: 0.06em;
+      line-height: 116.5%;
+    }
+    .loremIpsumDolor,
+    .thing1 {
+      position: absolute;
+      left: 0;
+      line-height: 116.5%;
+    }
+    .thing1 {
+      top: 0;
+      letter-spacing: 0.06em;
+    }
+    .loremIpsumDolor {
+      top: 55px;
+      font-family: var(--font-lato);
+      display: inline-block;
+      width: 861px;
+    }
+    .thing1Parent {
+      position: absolute;
+      top: 209px;
+      left: 169px;
+      width: 861px;
+      height: 139px;
+    }
+    .loremIpsumDolor1 {
+      position: absolute;
+      top: 55px;
+      left: 0;
+      line-height: 116.5%;
+      font-family: var(--font-lato);
+      display: inline-block;
+      width: 308px;
+    }
+    .loremIpsumDolor2,
+    .thing3Parent {
+      position: absolute;
+      top: 463px;
+      left: 164px;
+      width: 308px;
+      height: 279px;
+    }
+    .loremIpsumDolor2 {
+      top: 55px;
+      left: 0;
+      line-height: 116.5%;
+      font-family: var(--font-lato);
+      display: inline-block;
+      height: 358px;
+    }
+    .thing8Parent {
+      position: absolute;
+      top: 547px;
+      left: 1112px;
+      width: 308px;
+      height: 413px;
+    }
+    .loremIpsumDolor3 {
+      position: absolute;
+      top: 52px;
+      left: 0;
+      line-height: 116.5%;
+      font-family: var(--font-lato);
+      display: inline-block;
+      width: 518px;
+    }
+    .thing4Parent {
+      position: absolute;
+      top: 444px;
+      left: 536px;
+      width: 518px;
+      height: 136px;
+    }
+    .loremIpsumDolor4 {
+      position: absolute;
+      top: 52px;
+      left: 0;
+      line-height: 116.5%;
+      font-family: var(--font-lato);
+      display: inline-block;
+      width: 443px;
+    }
+    .thing5Parent,
+    .thing6Parent,
+    .thing7Parent {
+      position: absolute;
+      top: 534px;
+      left: 1450px;
+      width: 443px;
+      height: 164px;
+    }
+    .thing5Parent,
+    .thing7Parent {
+      top: 783px;
+      left: 1456px;
+    }
+    .thing5Parent {
+      top: 661px;
+      left: 536px;
+      width: 518px;
+      height: 192px;
+    }
+    .loremIpsumDolor7,
+    .thing2 {
+      position: absolute;
+      left: 0;
+      line-height: 116.5%;
+      display: inline-block;
+    }
+    .thing2 {
+      top: 0;
+      letter-spacing: 0.06em;
+      width: 122px;
+    }
+    .loremIpsumDolor7 {
+      top: 55px;
+      font-family: var(--font-lato);
+      width: 762px;
+    }
+    .site6Child,
+    .thing2Parent {
+      position: absolute;
+      top: 224px;
+      left: 1131px;
+      width: 762px;
+      height: 195px;
+    }
+    .site6Child {
+      top: 399.5px;
+      left: 163.5px;
+      border-top: 1px solidwhite;
+      box-sizing: border-box;
+      width: 891.01px;
+      height: 1px;
+    }
+    .site6Inner,
+    .site6Item {
+      position: absolute;
+      top: 495px;
+      left: 1092px;
+      width: 815px;
+      height: 5.1px;
+    }
+    .site6Inner {
+      top: 755px;
+      left: 1456px;
+      width: 451px;
+      height: 3.1px;
+    }
+    .lineDiv,
+    .site6Child1 {
+      border-right: 1px solidwhite;
+      width: 1px;
+    }
+    .lineDiv {
+      position: absolute;
+      top: 155.47px;
+      left: 1079.5px;
+      box-sizing: border-box;
+      height: 818.06px;
+    }
+    .site6Child1 {
+      top: 436.5px;
+      left: 516.5px;
+      height: 418px;
+    }
+    .site6Child1,
+    .site6Child2,
+    .site6Child3 {
+      position: absolute;
+      box-sizing: border-box;
+    }
+    .site6Child2 {
+      top: 629.5px;
+      left: 535.49px;
+      border-top: 1px solidwhite;
+      width: 519.02px;
+      height: 1px;
+    }
+    .site6Child3 {
+      top: 515.41px;
+      left: 1431px;
+      border-right: 1px solidwhite;
+      width: 1px;
+      height: 454.19px;
+    }
+    .site6 {
+      position: relative;
+      background: radial-gradient(50% 50%at 50% 50%, #5c6376, #353844);
+      width: 100%;
+      height: 100vh;
+      overflow: hidden;
+      text-align: left;
+      font-size: var(--font-size-5xl);
+      color:white;
+      font-family: var(--font-venus);
+    }
+    
+  }

@@ -192,3 +192,209 @@
   color: white;
 }
 
+@media (min-width:2000px){
+  .span {
+    font-family: var(--font-valenzka);
+  }
+  .getInTouchContainer {
+    position: absolute;
+    top: 906px;
+    left: 128px;
+    font-size: 50px;
+    letter-spacing: 0.06em;
+    line-height: 116.5%;
+    color: white;
+    font-family: var(--font-venus);
+  }
+  .site16Child {
+    position: absolute;
+    top: 229px;
+    left: 1366px;
+    width: 900px;
+    height: 900px;
+    object-fit: cover;
+  }
+  .groupChild {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 1px solid white;
+    box-sizing: border-box;
+    width: 514px;
+    height: 70px;
+  }
+  .firstName,
+  .thisIsA {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 116.5%;
+  }
+  .thisIsA {
+    top: 19px;
+    font-size: var(--font-size-xl);
+    color: white;
+  }
+  .firstNameParent {
+    position: absolute;
+    top: 15px;
+    left: 20px;
+    width: 121px;
+    height: 42px;
+  }
+  .groupItem,
+  .rectangleParent {
+    position: absolute;
+    width: 514px;
+    height: 70px;
+  }
+  .rectangleParent {
+    top: 306px;
+    left: 185px;
+    font-size: 12px;
+  }
+  .groupItem {
+    top: 0;
+    left: 0;
+    border: 1px solid var(--color-darkgray);
+    box-sizing: border-box;
+  }
+  .lastName {
+    position: absolute;
+    top: calc(50% - 11px);
+    left: 20px;
+    line-height: 116.5%;
+  }
+  .groupInner,
+  .rectangleGroup {
+    position: absolute;
+    top: 407px;
+    left: 185px;
+    width: 514px;
+    height: 70px;
+  }
+  .groupInner {
+    top: 0;
+    left: 0;
+    border: 1px solid var(--color-darkgray);
+    box-sizing: border-box;
+    height: 303px;
+  }
+  .leaveAMessage {
+    position: absolute;
+    top: 17.82px;
+    left: 14px;
+    line-height: 116.5%;
+    display: inline-block;
+    width: 325px;
+    height: 34.53px;
+  }
+  .groupDiv,
+  .rectangleContainer {
+    position: absolute;
+    top: 306px;
+    left: 723px;
+    width: 514px;
+    height: 303px;
+  }
+  .groupDiv {
+    top: 508px;
+    left: 185px;
+    height: 70px;
+  }
+  .phone {
+    position: absolute;
+    top: calc(50% - 11px);
+    left: 93px;
+    line-height: 116.5%;
+  }
+  .groupChild2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #484d5c;
+    border: 1px solid var(--color-darkgray);
+    box-sizing: border-box;
+    width: 75px;
+    height: 70px;
+  }
+  .arrowsDownArrow {
+    position: absolute;
+    top: 0;
+    left: 32.8px;
+    width: 19.78px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .div {
+    position: absolute;
+    top: calc(50% - 12px);
+    left: 0;
+    line-height: 116.5%;
+    display: inline-block;
+    width: 37px;
+  }
+  .arrowsDownArrowParent {
+    position: absolute;
+    top: 23px;
+    left: 11px;
+    width: 52.58px;
+    height: 24px;
+  }
+  .rectangleParent2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 75px;
+    height: 70px;
+    font-family: var(--font-inter);
+  }
+  .rectangleParent1 {
+    position: absolute;
+    top: 609px;
+    left: 185px;
+    width: 514px;
+    height: 70px;
+  }
+  .arrowsSubdirectoryArrow {
+    position: absolute;
+    top: 0;
+    left: 55px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .arrowsSubdirectoryArrowParent {
+    position: relative;
+    width: 79px;
+    height: 24px;
+  }
+  .site16Inner {
+    position: absolute;
+    top: 625px;
+    left: 1118px;
+    border-radius: 5px;
+    background-color: white;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 20px;
+    color: #000;
+    font-family: var(--font-inter);
+  }
+  .site16 {
+    position: relative;
+    background: radial-gradient(50% 50%at 50% 50%, #5c6376, #353844);
+    width: 100%;
+    height: 1000px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-darkgray);
+    font-family: var(--font-lato);
+  }
+  
+
+}

@@ -140,10 +140,10 @@
   position: absolute;
   top: 473.29px;
   left: 545px;
-  font-size: var(--font-inherit);
+  font-size: inherit;
   line-height: 116.5%;
   font-weight: 300;
-  font-family: var(--font-inherit);
+  font-family: inherit;
 }
 .site13 {
   position: relative;
@@ -155,4 +155,166 @@
   font-size: 18.09px;
   color:white;
   font-family: quanta-grotesk-pro;
+}
+@media (min-width:2000px) {
+  .education,
+.nameOfDegree {
+  position: absolute;
+  line-height: 116.5%;
+}
+.education {
+  top: 915px;
+  left: 136px;
+  font-size: 31px;
+  letter-spacing: 0.06em;
+  font-family: venus;
+}
+.nameOfDegree {
+  top: 0;
+  left: 5.02px;
+  font-weight: 500;
+}
+.groupChild {
+  position: absolute;
+  top: 46.47px;
+  left: -0.5px;
+  border-top: 1px solidwhite;
+  box-sizing: border-box;
+  width: 274.03px;
+  height: 1px;
+}
+.groupDiv,
+.nameOfDegreeContainer,
+.nameOfDegreeGroup,
+.nameOfDegreeParent {
+  position: absolute;
+  top: 311px;
+  left: 238px;
+  width: 273.03px;
+  height: 46.97px;
+}
+.groupDiv,
+.nameOfDegreeContainer,
+.nameOfDegreeGroup {
+  top: 391.97px;
+}
+.groupDiv,
+.nameOfDegreeContainer {
+  top: 472.94px;
+}
+.groupDiv {
+  top: 553.91px;
+}
+.aCoupleOf,
+.div,
+.nameOfDegree4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 116.5%;
+}
+.aCoupleOf,
+.div {
+  top: 65px;
+  font-weight: 300;
+}
+.aCoupleOf {
+  top: 155px;
+  font-size: 7px;
+  font-family: subjectivity;
+  display: inline-block;
+  width: 546px;
+}
+.nameOfDegreeParent1 {
+  position: absolute;
+  top: 393px;
+  left: 797px;
+  width: 546px;
+  height: 215px;
+  font-size: var(--font-size-31xl);
+  font-family: subjectivity;
+}
+.rectangleDiv {
+  top: 0;
+  left: 0;
+  background-color:white;
+  width: 277.5px;
+  height: 323.25px;
+}
+.groupChild1,
+.rectangleDiv,
+.rectangleParent {
+  position: absolute;
+  transform: rotate(3.5deg);
+  transform-origin: 0 0;
+}
+.groupChild1 {
+  top: 13.37px;
+  left: calc(50% - 129.05px);
+  background-color: gainsboro;
+  width: 252.75px;
+  height: 251.25px;
+}
+.rectangleParent {
+  top: 201.07px;
+  left: 1374.3px;
+  width: 277.5px;
+  height: 323.25px;
+}
+.groupChild2 {
+  top: 0;
+  left: 0;
+  background-color:white;
+  width: 277.5px;
+  height: 323.25px;
+}
+.groupChild2,
+.groupChild3,
+.rectangleGroup {
+  position: absolute;
+  transform: rotate(13.5deg);
+  transform-origin: 0 0;
+}
+.groupChild3 {
+  top: 14.85px;
+  left: 7.23px;
+  background-color: gainsboro;
+  width: 252.75px;
+  height: 251.25px;
+}
+.rectangleGroup {
+  top: 427px;
+  left: 1636.46px;
+  width: 277.5px;
+  height: 323.25px;
+}
+.awardRecognition {
+  margin-bottom: 0;
+}
+.awardRecognitionGoesHere {
+  margin: 0;
+  padding-left: 35px;
+}
+.awardRecognitionContainer {
+  position: absolute;
+  top: 672px;
+  left: 797px;
+  font-size: inherit;
+  line-height: 116.5%;
+  font-weight: 300;
+  font-family: inherit;
+}
+.site7 {
+  position: relative;
+  background: radial-gradient(50% 50%at 50% 50%, #5c6376, #353844);
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  text-align: left;
+  font-size: 70%;
+  color:white;
+  font-family: quanta-grotesk-pro;
+}
+
+  
 }
