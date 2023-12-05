@@ -1,5 +1,6 @@
 import { useCallback } from "react";
 import styles from "../assets/styles/Site4.module.css";
+import SideNavbar from "./SideNavbar";
 
 const Site11 = () => {
   const onGroupContainer2Click = useCallback(() => {
@@ -7,7 +8,8 @@ const Site11 = () => {
   }, []);
 
   return (
-    <div className={styles.site11}>
+    <div className={styles.site11} id="4">
+      <SideNavbar/>
       <div className={styles.awards}>AWARDS</div>
       <div className={styles.vectorParent}>
         <img className={styles.groupChild} alt="" src="./images/Line 2.svg" />

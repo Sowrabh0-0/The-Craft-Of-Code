@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 .experience {
     position: absolute;
     top: 915px;

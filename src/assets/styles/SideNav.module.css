@@ -1,11 +1,19 @@
+.adithyanarayananshankar41Icon {
+  position: absolute;
+  top: 30.75px;
+  left: 51px;
+  width: 0;
+  height: 0;
+  object-fit: cover;
+}
 .groupChild {
   position: absolute;
-  top: -2.5px;
-  left: 60.45px;
-  border-right: 5px solid white;
+  top: -1.87px;
+  left: 45.33px;
+  border-right: 3.8px solid white;
   box-sizing: border-box;
-  width: 5px;
-  height: 909px;
+  width: 3.75px;
+  height: 100vh;
 }
 .vectorIcon,
 .vectorIcon1 {
@@ -42,7 +50,7 @@
   top: 41.59%;
   right: 41.57%;
   bottom: 30.33%;
-  left: 30.33%;
+  left: 30.32%;
   max-width: 100%;
   max-height: 100%;
 }
@@ -67,14 +75,14 @@
   top: 25.7%;
   right: 25.72%;
   bottom: 19.59%;
-  left: 19.59%;
+  left: 19.6%;
   overflow: hidden;
 }
 .vectorIcon5 {
   height: 15.42%;
   width: 19.77%;
   top: 81.05%;
-  right: 74.87%;
+  right: 74.88%;
   bottom: 3.53%;
   left: 5.36%;
 }
@@ -89,7 +97,7 @@
   width: 20.23%;
   top: 77.78%;
   right: 76.23%;
-  bottom: 4.87%;
+  bottom: 4.88%;
   left: 3.53%;
   max-width: 100%;
   max-height: 100%;
@@ -119,12 +127,12 @@
   overflow: hidden;
 }
 .vectorIcon9 {
-  height: 9.98%;
+  height: 9.99%;
   width: 19.89%;
   top: 21.45%;
   right: 4.98%;
   bottom: 68.56%;
-  left: 75.12%;
+  left: 75.13%;
 }
 .basson,
 .vectorIcon10,
@@ -144,10 +152,10 @@
 }
 .basson {
   text-decoration: none;
-  top: 112px;
-  left: 21.95px;
-  width: 77px;
-  height: 83.02px;
+  top: 76.32px;
+  left: 16.46px;
+  width: 57.75px;
+  height: 56.57px;
 }
 .vectorIcon11,
 .vectorIcon12 {
@@ -156,21 +164,19 @@
 }
 .vectorIcon11 {
   position: absolute;
-  height: 55.66%;
-  width: 62.5%;
-  top: 18.15%;
-  right: 141.89%;
-  bottom: 26.19%;
-  left: -104.39%;
+  height: 100%;
+  width: 100%;
+  right: 10px;
   overflow: hidden;
+  transform: rotate(88.9deg);
 }
 .vectorIcon12 {
   height: 55.57%;
-  width: 61.88%;
-  top: 12%;
-  right: 124.96%;
-  bottom: 32.43%;
-  left: -86.84%;
+  width: 68.1%;
+  top: 10.9%;
+  right: 127.47%;
+  bottom: 33.53%;
+  left: -95.58%;
 }
 .tabla,
 .vectorIcon12,
@@ -180,23 +186,22 @@
 }
 .vectorIcon13 {
   height: 71.48%;
-  width: 80.39%;
-  top: 19.75%;
-  right: 106.13%;
-  bottom: 8.76%;
-  left: -86.53%;
+  width: 88.48%;
+  top: 17.95%;
+  right: 106.75%;
+  bottom: 10.57%;
+  left: -95.24%;
   max-width: 100%;
   max-height: 100%;
 }
 .tabla {
   text-decoration: none;
-  top: 270px;
-  left: 105.88px;
-  width: 81px;
-  height: 90.95px;
-  transform: rotate(89deg);
+  top: 200px;
+  left: 79.41px;
+  width: 55.2px;
+  height: 68.21px;
+  transform: rotate(88.9deg);
   transform-origin: 0 0;
-  cursor: pointer;
 }
 .vectorIcon14,
 .vectorIcon15,
@@ -204,7 +209,7 @@
   position: absolute;
   height: 99.89%;
   width: 79.47%;
-  top: 0.06%;
+  top: 0.07%;
   right: 0.01%;
   bottom: 0.05%;
   left: 20.52%;
@@ -240,7 +245,7 @@
   width: 16.53%;
   top: 48.76%;
   right: 60.9%;
-  bottom: 39.51%;
+  bottom: 39.52%;
   left: 22.57%;
   overflow: hidden;
 }
@@ -260,7 +265,7 @@
 .vectorIcon19 {
   height: 5.99%;
   width: 6%;
-  top: 40.05%;
+  top: 40.06%;
   right: 56.98%;
   bottom: 53.95%;
   left: 37.02%;
@@ -269,45 +274,208 @@
 }
 .tuba {
   text-decoration: none;
-  top: 409px;
-  left: 15.95px;
-  width: 89px;
-  height: 97.34px;
+  top: 300.7px;
+  left: 11.96px;
+  width: 66.75px;
+  height: 66.33px;
 }
-.frenchHornIcon,
-.sitarIcon {
+.vectorIcon20,
+.vectorIcon21,
+.vectorIcon22,
+.vectorIcon23 {
   position: absolute;
-  top: 564.28px;
-  left: 0;
-  width: 112.89px;
-  height: 117.67px;
+  height: 42.39%;
+  width: 45.21%;
+  top: 49.14%;
+  right: 86.48%;
+  bottom: 8.47%;
+  left: -31.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon21,
+.vectorIcon22,
+.vectorIcon23 {
+  height: 100%;
+  width: 100%;
+  top: 20%;
+  left: 10%;
+}
+.vectorIcon22,
+.vectorIcon23 {
+  height: 24.02%;
+  width: 44.1%;
+  top: 60.45%;
+  right: 41.35%;
+  bottom: 15.53%;
+  left: 14.55%;
+}
+.vectorIcon23 {
+  height: 94.12%;
+  width: 125.68%;
+  top: 31.44%;
+  right: 12.59%;
+  bottom: -25.56%;
+  left: -38.27%;
+}
+.frenchHorn {
+  text-decoration: none;
+  top: 400.51px;
+  left: 27.58px;
+  width: 61.38px;
+  height: 63.89px;
+  transform: rotate(21.56deg);
+  transform-origin: 0 0;
+}
+.frenchHorn,
+.vectorIcon24,
+.vectorIcon25 {
+  position: absolute;
   overflow: hidden;
 }
-.sitarIcon {
-  top: 740px;
-  left: 12.95px;
-  width: 92.49px;
-  height: 108px;
-  cursor: pointer;
+.vectorIcon24 {
+  height: 51.04%;
+  width: 51.53%;
+  top: 50.53%;
+  right: 55.41%;
+  bottom: -1.57%;
+  left: -6.94%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vectorIcon25 {
+  height: 7.99%;
+  width: 11.14%;
+  top: 56.1%;
+  right: 87.14%;
+  bottom: 35.91%;
+  left: 1.71%;
+  opacity: 0.4;
+}
+.vectorIcon25,
+.vectorIcon26,
+.vectorIcon27 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.vectorIcon26 {
+  position: absolute;
+  height: 47.24%;
+  width: 45.04%;
+  top: 55.24%;
+  right: 55.41%;
+  bottom: -2.48%;
+  left: -0.46%;
+  overflow: hidden;
+  opacity: 0.08;
+}
+.vectorIcon27 {
+  height: 60.73%;
+  width: 65.91%;
+  top: 17.54%;
+  right: 13.7%;
+  bottom: 21.73%;
+  left: 20.39%;
+}
+.vectorIcon27,
+.vectorIcon28,
+.vectorIcon29 {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon28 {
+  height: 56.45%;
+  width: 65.54%;
+  top: 22.11%;
+  right: 13.71%;
+  bottom: 21.44%;
+  left: 20.75%;
+  max-width: 100%;
+  max-height: 100%;
+  opacity: 0.08;
+}
+.vectorIcon29 {
+  height: 87.85%;
+  width: 94.14%;
+  top: 7.76%;
+  right: 2.51%;
+  bottom: 4.39%;
+  left: 3.34%;
+}
+.vectorIcon29,
+.vectorIcon30,
+.vectorIcon31 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.vectorIcon30 {
+  position: absolute;
+  height: 31.76%;
+  width: 34.58%;
+  top: 17.42%;
+  right: 25.86%;
+  bottom: 50.82%;
+  left: 39.56%;
+  overflow: hidden;
+}
+.vectorIcon31 {
+  height: 99.95%;
+  width: 105.63%;
+  top: 6.23%;
+  right: 1.83%;
+  bottom: -6.18%;
+  left: -7.46%;
+}
+.sitar,
+.vectorIcon31,
+.vectorIcon32 {
+  position: absolute;
+  overflow: hidden;
+}
+html {
+  scroll-behavior: smooth;
+}
+.vectorIcon32 {
+  height: 21.54%;
+  width: 20.69%;
+  top: 69.62%;
+  right: 76.48%;
+  bottom: 8.84%;
+  left: 2.84%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.sitar {
+  text-decoration: none;
+  top: 540.25px;
+  left: 16.32px;
+  width: 62.96px;
+  height: 68.92px;
+  transform: rotate(4.54deg);
+  transform-origin: 0 0;
 }
 .groupItem {
   position: absolute;
-  top: 24px;
-  left: calc(50% - 55px);
+  top: 16.35px;
+  left: calc(50% - 21.37px);
   background-color: white;
-  width: 61px;
-  height: 15px;
+  width: 45.75px;
+  height: 10.22px;
 }
-.lineParent {
+.aboutInner,
+.groupWrapper {
   position: absolute;
-  top: 96px;
-  left: 15.05px;
-  width: 112.89px;
-  height: 904px;
+  top: 0;
+  left: 0;
+  width: 84.67px;
+  height: 616px;
 }
-.site15 {
+.aboutInner {
+  top: 93px;
+}
+.about {
   position: relative;
-  background: radial-gradient(50% 50%at 50% 50%, #5c6376, #353844);
   width: 100%;
   height: 100vh;
   overflow: hidden;

@@ -1,9 +1,10 @@
 import styles from "../assets/styles/Site3.module.css";
-import SideNav from "./SideNav";
+import SideNavbar from "./SideNavbar";
 
 const Site10 = () => {
   return (
-    <div className={styles.site10}>
+    <div className={styles.site10} id="3">
+      <SideNavbar/>
       <img
         className={styles.adithyanarayananshankar4RemoIcon}
         alt=""

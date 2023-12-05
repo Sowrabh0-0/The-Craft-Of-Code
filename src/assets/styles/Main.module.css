@@ -4,6 +4,6 @@
     height: 100vh; /* Set a maximum height if needed */
 
   }
-  
-  /* Add more styles as needed */
-  
+  html {
+    scroll-behavior: smooth;
+  }

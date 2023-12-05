@@ -1,9 +1,11 @@
 import { Button } from "@mui/material";
 import styles from "../assets/styles/Site8.module.css";
+import SideNavbar from "./SideNavbar";
 
 const Site8 = () => {
   return (
-    <div className={styles.site14}>
+    <div className={styles.site14} id="7">
+      <SideNavbar/>
       <div className={styles.getInTouchContainer}>
         <span>GET IN TOUCH</span>
         <span className={styles.span}>!</span>

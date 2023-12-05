@@ -1,8 +1,10 @@
 import styles from "../assets/styles/Site6.module.css";
+import SideNavbar from "./SideNavbar";
 
 const Site6 = () => {
   return (
-    <div className={styles.site12}>
+    <div className={styles.site12} id="5">
+      <SideNavbar/>
       <div className={styles.experience}>EXPERIENCE</div>
       <div className={styles.thing1Parent}>
         <div className={styles.thing1}>Thing 1</div>

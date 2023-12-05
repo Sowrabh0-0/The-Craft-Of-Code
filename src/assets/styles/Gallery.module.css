@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 .gallery1 {
   position: absolute;
   top: 17.43px;

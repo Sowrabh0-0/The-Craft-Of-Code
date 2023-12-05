@@ -1,4 +1,6 @@
-/* Home.module.css */
+html {
+  scroll-behavior: smooth;
+}
 .homeContainer {
   width: 100%;
   min-height: 100vh;

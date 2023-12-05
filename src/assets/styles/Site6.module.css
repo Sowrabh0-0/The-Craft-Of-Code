@@ -205,6 +205,9 @@ body{
     height: 0.75px;
 
   }
+  html {
+    scroll-behavior: smooth;
+  }
   .site12Child3 {
     top: 386.56px;
     left: 1073.25px;

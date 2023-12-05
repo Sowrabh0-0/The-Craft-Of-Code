@@ -17,6 +17,9 @@
     position: absolute;
     width: 163.79px;
   }
+  html {
+    scroll-behavior: smooth;
+  }
   .schedule {
     top: 17.79px;
     left: calc(50% - 81.9px);

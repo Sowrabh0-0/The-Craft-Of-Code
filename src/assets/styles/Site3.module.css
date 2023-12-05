@@ -29,6 +29,9 @@
   .span {
     font-size: 30.75px;
   }
+  html {
+    scroll-behavior: smooth;
+  }
   .iAmAdithyanarayananContainer,
   .iWorkAs {
     position: absolute;

@@ -6,6 +6,9 @@
     line-height: 116.5%;
     font-family: venus;
   }
+  html {
+    scroll-behavior: smooth;
+  }
   .groupChild {
     position: absolute;
     top: 37.61px;
@@ -223,6 +226,7 @@
     overflow: hidden;
     text-align: left;
     font-size: 31.78px;
+        scroll-behavior: smooth;
     color: white;
     font-family: quanta-grotesk-pro;
   }
