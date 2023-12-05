@@ -2,7 +2,7 @@ import { useCallback } from "react";
 import styles from "../assets/styles/Site4.module.css";
 import SideNavbar from "./SideNavbar";
 
-const Site11 = () => {
+const Site4 = () => {
   const onGroupContainer2Click = useCallback(() => {
     // Please sync "Site 5" to the project
   }, []);
@@ -63,4 +63,4 @@ const Site11 = () => {
   );
 };
 
-export default Site11;
+export default Site4;

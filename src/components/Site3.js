@@ -1,7 +1,7 @@
 import styles from "../assets/styles/Site3.module.css";
 import SideNavbar from "./SideNavbar";
 
-const Site10 = () => {
+const Site3 = () => {
   return (
     <div className={styles.site10} id="3">
       <SideNavbar/>
@@ -30,4 +30,4 @@ const Site10 = () => {
   );
 };
 
-export default Site10;
+export default Site3;
