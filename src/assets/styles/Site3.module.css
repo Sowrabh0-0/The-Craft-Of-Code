@@ -60,15 +60,19 @@
     color: white;
     font-family: brant;
   }
-  @media (max-width:700px){
+  @media (max-width:800px){
     .adithyanarayananshankar4RemoIcon {
       position: absolute;
-      top: 773.95px;
-      left: 249.3px;
+      top: 400.95px;
+      left: 400.3px;
       width: 602.79px;
-      height: 960.19px;
+      height: 600.19px;
       object-fit: cover;
+      float: left; 
+    
+      width: 50%;
     }
+
     .iAm {
       margin: 0;
     }
@@ -80,6 +84,7 @@
     }
     .aSingerVoice {
       font-weight: 500;
+      
     }
     .aSingerVoiceArtistAndMus {
       margin: 0;
@@ -101,16 +106,16 @@
     }
     .iAmAdithyanarayananContainer {
       top: 266.05px;
-      width: 695.81px;
+      width: 400.81px;
       height: 372.09px;
       font-size: 66.98px;
-      font-family: var(--font-brant);
+    
     }
     .iHaveMore,
     .iWorkAs {
       top: 749.77px;
       line-height: 133%;
-      width: 688.37px;
+      width: 400.37px;
       height: 498.6px;
     }
     .iHaveMore {

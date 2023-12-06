@@ -176,6 +176,7 @@ html {
   top: 0;
   left: 5.02px;
   font-weight: 500;
+  
 }
 .groupChild {
   position: absolute;
@@ -215,6 +216,7 @@ html {
   top: 0;
   left: 0;
   line-height: 116.5%;
+  font-size: 50px;
 }
 .aCoupleOf,
 .div {
@@ -223,7 +225,7 @@ html {
 }
 .aCoupleOf {
   top: 155px;
-  font-size: 7px;
+  font-size: 30px;
   font-family: subjectivity;
   display: inline-block;
   width: 546px;

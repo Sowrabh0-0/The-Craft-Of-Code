@@ -188,3 +188,13 @@ html {
   height: 100vh;
   overflow: hidden;
 }
+
+.vectorIcon1:hover{
+  background-color: rgb(123, 181, 194);
+}
+
+@media (max-width:800px) {
+  .groupWrapper{
+    display: none;
+  }
+}
